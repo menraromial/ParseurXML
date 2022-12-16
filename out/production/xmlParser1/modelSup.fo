@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format">
+ <fo:layout-master-set>
+  <fo:simple-page-master margin-left="1.749778cm" master-name="spm0" page-height="29.7004cm" margin-top="0.75cm" margin-bottom="1.31cm" page-width="21.0009cm" margin-right="1.749778cm">
+   <fo:region-body margin-top="2.5cm" margin-bottom="1.234722222222222cm"/>
+   <fo:region-before extent="26.7cm" overflow="visible" precedence="false"/>
+   <fo:region-after extent="28.39cm" overflow="visible" display-align="after" precedence="false"/>
+  </fo:simple-page-master>
+ </fo:layout-master-set>
+ <fo:page-sequence master-reference="spm0" language="fr" hyphenate="false">
+  <fo:static-content flow-name="xsl-region-after">
+   <fo:block space-after="0.35cm" font-size="12pt" line-height="12pt" language="fr" font-family="Calibri" orphans="2" widows="2"><fo:inline color="#ff0000" font-weight="bold">Created wit_ an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/</fo:inline></fo:block>
+   <fo:block white-space-collapse="false" white-space-treatment="preserve" font-size="11pt" line-height="11pt" language="en" font-family="Calibri"> </fo:block>
+  </fo:static-content>
+  <fo:static-content flow-name="xsl-region-before">
+   <fo:block-container z-index="-2" overflow="visible" top="2.501cm" absolute-position="absolute" left="0cm" width="17cm" position="absolute" height="9.239cm">
+    <fo:block><fo:inline><fo:external-graphic scaling="non-uniform" src="url(file:/C:/Users/menra/IdeaProjects/xmlParser1/images/imgc71cbba9.png)" width="17cm" content-width="17cm" content-height="9.239cm" height="9.239cm"/></fo:inline></fo:block>
+   </fo:block-container>
+   <fo:block-container width="0.00001mm" absolute-position="auto" height="0.00001mm">
+    <fo:block-container background-color="#1f497d" z-index="-2" overflow="visible" top="-0.785cm" absolute-position="absolute" left="20.186cm" width="24.366cm" position="absolute" height="7.153cm">
+     <fo:block/>
+    </fo:block-container>
+   </fo:block-container>
+   <fo:block space-after="0.35cm" font-size="26pt" line-height="26pt" language="fr" font-family="Calibri" orphans="2" widows="2"><fo:basic-link font-size="26pt" font-family="Calibri" color="#ffffff" external-destination="url(http://lirima.org/index.php)"><fo:inline font-size="26pt" font-family="Times New Roman" color="#ffffff" font-weight="bold">LIRIMA</fo:inline></fo:basic-link></fo:block>
+  </fo:static-content>
+  <fo:flow flow-name="xsl-region-body">
+   <fo:block space-after="0.35cm" font-size="12pt" line-height="12pt" language="fr" font-family="Calibri" orphans="2" widows="2"><fo:inline color="#ff0000" font-weight="bold">Evaluation Only. Created w_th Aspose.Words. Copyright 2003-2022 Aspose Pty Ltd.</fo:inline></fo:block>
+   <fo:block white-space-collapse="false" white-space-treatment="preserve" keep-with-next.within-page="always" keep-together.within-page="always" font-size="12pt" space-before="0.85cm" line-height="12pt" language="fr" font-family="Arial"> </fo:block>
+   <fo:block space-after="0.35cm" font-size="16pt" line-height="16pt" language="fr" font-family="Calibri" orphans="2" widows="2"><fo:inline color="#002060" font-weight="bold">C_NTROLE DU DOCUMENT</fo:inline></fo:block>
+   <fo:block space-after="0.35cm" font-size="12pt" line-height="12pt" language="fr" font-family="Arial" orphans="2" widows="2" text-align="justify">Auteurs &amp; Versions</fo:block>
+   <fo:table margin-left="-0.2cm" display-align="auto" table-layout="fixed" border-collapse="collapse">
+    <fo:table-column column-width="4.94cm"/>
+    <fo:table-column column-width="2cm"/>
+    <fo:table-column column-width="2.75cm"/>
+    <fo:table-column column-width="8.5cm"/>
+    <fo:table-body>
+     <fo:table-row>
+      <fo:table-cell background-color="#1f497d" display-align="center" padding-left="5.4pt" border-color="black" border-width="0.5pt" border-style="solid" padding-right="5.4pt">
+       <fo:block space-after="0.11cm" font-size="12pt" line-height="12pt" language="fr" font-family="Arial" margin-top="0.11cm" orphans="2" widows="2" text-align="center"><fo:inline color="#ffffff" font-weight="bold">Nom de l’Auteur</fo:inline></fo:block>
+      </fo:table-cell>
+      <fo:table-cell background-color="#1f497d" display-align="center" padding-left="5.4pt" border-color="black" border-width="0.5pt" border-style="solid" padding-right="5.4pt">
+       <fo:block space-after="0.11cm" font-size="12pt" line-height="12pt" language="fr" font-family="Arial" margin-top="0.11cm" orphans="2" widows="2" text-align="center"><fo:inline color="#ffffff" font-weight="bold">Versio_</fo:inline></fo:block>
+      </fo:table-cell>
+      <fo:table-cell background-color="#1f497d" display-align="center" padding-left="5.4pt" border-color="black" border-width="0.5pt" border-style="solid" padding-right="5.4pt">
+       <fo:block space-after="0.11cm" font-size="12pt" line-height="12pt" language="fr" font-family="Arial" margin-top="0.11cm" orphans="2" widows="2" text-align="center"><fo:inline color="#ffffff" font-weight="bold">Date publica_ion</fo:inline></fo:block>
+      </fo:table-cell>
+      <fo:table-cell background-color="#1f497d" display-align="center" padding-left="5.4pt" border-color="black" border-width="0.5pt" border-style="solid" padding-right="5.4pt">
+       <fo:block space-after="0.11cm" font-size="12pt" line-height="12pt" language="fr" font-family="Arial" margin-top="0.11cm" orphans="2" widows="2" text-align="center"><fo:inline color="#ffffff" font-weight="bold">Changements</fo:inline></fo:block>
+       <fo:block space-after="0.11cm" font-size="12pt" space-before="0.11cm" line-height="12pt" language="fr" font-family="Arial" orphans="2" widows="2" text-align="center"><fo:inline color="#ffffff" font-weight="bold">par rapport à _a Version précédente</fo:inline></fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell border-color="black" border-width="0.5pt" border-style="solid" display-align="center" padding-left="5.4pt" padding-right="5.4pt">
+       <fo:block space-after="0.11cm" font-size="12pt" line-height="12pt" language="fr" font-family="Arial" margin-top="0.11cm" orphans="2" widows="2">NGANMENI Zéphirin</fo:block>
+      </fo:table-cell>
+      <fo:table-cell border-color="black" border-width="0.5pt" border-style="solid" display-align="center" padding-left="5.4pt" padding-right="5.4pt">
+       <fo:block space-after="0.11cm" font-size="12pt" line-height="12pt" language="fr" font-family="Arial" margin-top="0.11cm" orphans="2" widows="2">1.0</fo:block>
+      </fo:table-cell>
+      <fo:table-cell border-color="black" border-width="0.5pt" border-style="solid" display-align="center" padding-left="5.4pt" padding-right="5.4pt">
+       <fo:block space-after="0.11cm" font-size="12pt" line-height="12pt" language="fr" font-family="Arial" margin-top="0.11cm" orphans="2" widows="2">12/04/2011</fo:block>
+      </fo:table-cell>
+      <fo:table-cell border-color="black" border-width="0.5pt" border-style="solid" display-align="center" padding-left="5.4pt" padding-right="5.4pt">
+       <fo:block space-after="0.11cm" font-size="12pt" line-height="12pt" language="fr" font-family="Arial" margin-top="0.11cm" orphans="2" widows="2">Version initiale</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+    </fo:table-body>
+   </fo:table>
+   <fo:block keep-with-next.within-page="always" text-indent="0.64cm" keep-together.within-page="always" font-size="14pt" space-before="0.85cm" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2"><fo:inline id="_Toc290362830"/><fo:inline color="#365f91" font-weight="bold">IN_RODUCTION</fo:inline><fo:inline id="_Toc290362830:end"/><fo:inline color="#365f91" font-weight="bold"> </fo:inline></fo:block>
+   <fo:block white-space-collapse="false" space-after="0.35cm" text-indent="0.64cm" font-size="14pt" space-before="0.42cm" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">Pendant  le processus de scénarisat_on, le support de cours traverse plusieurs étapes et change souvent de forme. Pour minimiser l’impact de ces transformations sur le produit final, nous convenons d’adopter un modèle _our la rédaction de nos supports de sorte à se conformer le mieux possible aux exigences du système.  </fo:block>
+   <fo:block space-after="0.35cm" text-indent="0.64cm" font-size="14pt" space-before="0.42cm" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">Ce _ocument présente à cet effet les règles relatives à la rédaction et à la présentation visuelle des différentes parties d’un support de cours. On y trouve l’ordre de présentation des pages ainsi q_e les règles spécifiques à respecter pour les pages prélimin_ires, les pages d’introductio_, de développement, de conclusion et pour les pages complémentaires.</fo:block>
+   <fo:block text-indent="0.64cm" font-size="14pt" space-before="0.42cm" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">Le logicie_ de traitement de texte Word est notre e_vironnement de référence, il propose des me_lleurs outils de gestion de mise en page et de hiérarchisati_n du document. </fo:block>
+   <fo:block white-space-collapse="false" white-space-treatment="preserve" text-indent="0.64cm" font-size="14pt" space-before="0.42cm" line-height="14pt" language="fr" font-family="Garamond"> </fo:block>
+   <fo:block white-space-collapse="false" white-space-treatment="preserve" space-after="0.35cm" font-size="14pt" space-before="0.42cm" line-height="14pt" language="fr" font-family="Garamond"> </fo:block>
+   <fo:block break-before="page"/>
+
+   <fo:list-block provisional-distance-between-starts="0.64cm" margin-left="0.64cm" margin-right="0cm">
+    <fo:list-item space-before="12pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="18pt" font-family="Garamond"><fo:inline font-weight="bold">1.</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="18pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify"><fo:inline id="_Toc290362831"/><fo:inline font-weight="bold">Ordre et contenu des parties d’un support de cours</fo:inline><fo:inline id="_Toc290362831:end"/></fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+   </fo:list-block>
+
+   <fo:block white-space-collapse="false" text-indent="0.64cm" font-size="14pt" space-before="0.42cm" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">Nous débuterons av_c les pages préliminaires placées au début d’un doc_ment. Elles visent essentiellement à identifier le support de cours, l’auteur, les objectifs_ les dépendances. On y retrouve également une brève description de  la teneur du support et de sa structure.</fo:block>
+
+   <fo:list-block provisional-distance-between-starts="1.27cm" margin-left="1.27cm" margin-right="0cm">
+    <fo:list-item space-before="12pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="16pt" font-family="Garamond"><fo:inline font-weight="bold">1.1.</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="16pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify"><fo:inline id="_Toc290362832"/><fo:inline font-weight="bold">Pages préliminaires</fo:inline><fo:inline id="_Toc290362832:end"/></fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+   </fo:list-block>
+
+   <fo:list-block provisional-distance-between-starts="1.9cm" margin-left="2.54cm" margin-right="0cm">
+    <fo:list-item space-before="12pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="14pt" font-family="Garamond"><fo:inline font-weight="bold">1.1.1.</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify"><fo:inline id="_Toc290362833"/><fo:inline font-weight="bold">Le titre du cours</fo:inline><fo:inline id="_Toc290362833:end"/></fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+   </fo:list-block>
+
+   <fo:block white-space-collapse="false" text-indent="0.68cm" font-size="14pt" space-before="0.42cm" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">Le titre constitue la première partie _u support. Il  permet au lecteur de prendre connaissance de l’origine du document et du sujet traité.</fo:block>
+   <fo:block white-space-collapse="false" text-indent="0.68cm" font-size="14pt" space-before="0.42cm" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">Cette partie du document doit _e présentée so_s forme de tableau  faisant ressortir les éléments suivants: </fo:block>
+
+   <fo:list-block provisional-distance-between-starts="0.64cm" margin-left="0.64cm" margin-right="0cm">
+    <fo:list-item space-before="12pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="14pt" font-family="Symbol"><fo:inline>·</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">L’identifian_ du cadre institutionnel, dans notre cas c’_st la SABC</fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+    <fo:list-item space-before="12pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="14pt" font-family="Symbol"><fo:inline>·</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block white-space-collapse="false" font-size="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">Le _omaine concerné par le support  (exemple : Achat)</fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+    <fo:list-item space-before="12pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="14pt" font-family="Symbol"><fo:inline>·</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">Le thème développé dans le support.</fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+    <fo:list-item space-before="12pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="14pt" font-family="Symbol"><fo:inline>·</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block white-space-collapse="false" font-size="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">Le  type de docum_nt que représente le support  (cours, fiche de TD, etc.)</fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+    <fo:list-item space-before="12pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="14pt" font-family="Symbol"><fo:inline>·</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">La version du doc_ment</fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+    <fo:list-item space-before="12pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="14pt" font-family="Symbol"><fo:inline>·</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block white-space-collapse="false" font-size="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">La date (si possible le l_eu) de  rédaction du document</fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+    <fo:list-item space-before="12pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="14pt" font-family="Symbol"><fo:inline>·</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">La date de la dernière mise à jour</fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+    <fo:list-item space-before="12pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="14pt" font-family="Symbol"><fo:inline>·</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">Le(s) nom(s) et adresse(s) de(s) au_eur(s) </fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+    <fo:list-item space-before="12pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="14pt" font-family="Symbol"><fo:inline>·</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">La licence du document (les droits_</fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+   </fo:list-block>
+   <fo:block font-size="14pt" space-before="0.42cm" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">Ces informa_ions peuvent êtres enrichies ou allégées en fonction des circonstances. </fo:block>
+   <fo:list-block provisional-distance-between-starts="1.9cm" margin-left="2.54cm" margin-right="0cm">
+    <fo:list-item space-before="12pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="14pt" font-family="Garamond"><fo:inline font-weight="bold">1.1.2.</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify"><fo:inline id="_Toc290362834"/><fo:inline font-weight="bold">La _iste de diffusion</fo:inline><fo:inline id="_Toc290362834:end"/></fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+   </fo:list-block>
+   <fo:block white-space-collapse="false" text-indent="0.64cm" font-size="14pt" space-before="0.42cm" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">La liste de diffusion est _n tableau qui indique les personnes  concernées par le document. On peut y indiqué le rôle de chaque intervenant (_onsultation, validation, information, etc.)</fo:block>
+   <fo:list-block provisional-distance-between-starts="1.9cm" margin-left="2.54cm" margin-right="0cm">
+    <fo:list-item space-before="12pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="14pt" font-family="Garamond"><fo:inline font-weight="bold">1.1.3.</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify"><fo:inline id="_Toc290362835"/><fo:inline font-weight="bold">Résumé du support</fo:inline><fo:inline id="_Toc290362835:end"/></fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+   </fo:list-block>
+   <fo:block text-indent="0.64cm" font-size="14pt" space-before="0.42cm" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">Ce paragraphe f_cultatif, est une description synoptique du contenu du document. Il permet au lecteur, d’avoir une idée du conten_ du document. Cette information prépare ps_chologique le lecteur pour la découverte du contenu développé dans le support. </fo:block>
+   <fo:list-block provisional-distance-between-starts="1.9cm" margin-left="2.54cm" margin-right="0cm">
+    <fo:list-item space-before="12pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="14pt" font-family="Garamond"><fo:inline font-weight="bold">1.1.4.</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify"><fo:inline id="_Toc290362836"/><fo:inline font-weight="bold">Les object_fs pédagogiques (cas des supports de cours)</fo:inline><fo:inline id="_Toc290362836:end"/><fo:inline font-weight="bold"> </fo:inline></fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+   </fo:list-block>
+   <fo:block text-indent="0.64cm" font-size="14pt" space-before="0.42cm" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">Dans _e cas des supports de cours, la description des objectifs pédagogiques en termes de comportements ou de compét_nces observables chez chaque apprenan_ au terme de l’exploitat_on du document. Le pédagogue doit citer point pa_ point ce à quoi l’apprenant devra êtres capable de r_aliser à l’issue du proc_ssus d’apprentissage.</fo:block>
+   <fo:list-block provisional-distance-between-starts="1.9cm" margin-left="2.54cm" margin-right="0cm">
+    <fo:list-item space-before="12pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="14pt" font-family="Garamond"><fo:inline font-weight="bold">1.1.5.</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify"><fo:inline id="_Toc290362837"/><fo:inline font-weight="bold">Les dépendances</fo:inline><fo:inline id="_Toc290362837:end"/></fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+   </fo:list-block>
+   <fo:block text-indent="0.64cm" font-size="14pt" space-before="0.42cm" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">Le tableau de dépendance, présente les différentes ressources nécessaires qu’on _oit mobiliser pour la réalisat_on des objectifs visés dans le support. Pour chaque ressource, on doit spécif_er sa nature en indiquant si la _essource est un pré requis, une ressource complémentaire, un_ démo ou tout autre support devant aller avec le document. </fo:block>
+   <fo:list-block provisional-distance-between-starts="1.9cm" margin-left="2.54cm" margin-right="0cm">
+    <fo:list-item space-before="12pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="14pt" font-family="Garamond"><fo:inline font-weight="bold">1.1.6.</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify"><fo:inline id="_Toc290362838"/><fo:inline font-weight="bold">Sommaire ou table des matières</fo:inline><fo:inline id="_Toc290362838:end"/></fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+   </fo:list-block>
+   <fo:block white-space-collapse="false" text-indent="0.68cm" font-size="14pt" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">Le so_maire, encore appelé  table des matières est la page la plus consultée après la page de titre et la page du résumé car elle donne au lecteur un aperçu s_hématique du contenu du document.  La table des matières comprend le titre de toutes les divisions et sous-divisions du document. Il est à noter que la table des matières comm_nce avec l’introd_ction et elle se termine avec les références bibliographiques ou la bibliogra_hie. Les pages préliminaires ne s_nt pas présentées dans la table des matières. </fo:block>
+   <fo:block white-space-collapse="false" text-indent="0.68cm" font-size="14pt" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">Les diffé_ents niveaux d’information sont hiérarchisés numériquement sans dépasser trois niveaux (Ex. : 2.1 = niveau 1, 2.1.1 = niveau 2, 2.1.1.1 = niveau 3). Il est important _e souligner que Word permet de génère automatiquement une table des matières. Toutefois, par mesure de précaution, le rédacteur doit s’assurer que la formulation et l’ordre d’apparition des tit_es dans le document concordent bien avec ceux présentés da_s la table des matières.   </fo:block>
+   <fo:list-block provisional-distance-between-starts="1.9cm" margin-left="2.54cm" margin-right="0cm">
+    <fo:list-item space-before="12pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="14pt" font-family="Garamond"><fo:inline font-weight="bold">1.1.7.</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify"><fo:inline id="_Toc290362839"/><fo:inline font-weight="bold">La liste des tableaux</fo:inline><fo:inline id="_Toc290362839:end"/></fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+   </fo:list-block>
+   <fo:block text-indent="1.25cm" font-size="14pt" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">Dès qu’un document comp_rte plus de trois tableaux, une liste des tableaux doit être dressée et présentée après la table des matières. </fo:block>
+   <fo:block white-space-collapse="false" font-size="14pt" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">La liste des tableaux présente l_ numéro et le titre de chaque tableau.  Il est souha_table de représenter la liste des tableaux sous forme de tableau à deux colonnes. La première colonne donne l’indexe du table et la seconde colo_ne fait correspondre le nom du tableau. </fo:block>
+   <fo:list-block provisional-distance-between-starts="1.9cm" margin-left="2.54cm" margin-right="0cm">
+    <fo:list-item>
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="14pt" font-family="Garamond"><fo:inline font-weight="bold">1.1.8.</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify"><fo:inline id="_Toc290362840"/><fo:inline font-weight="bold">La liste des figures</fo:inline><fo:inline id="_Toc290362840:end"/></fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+   </fo:list-block>
+   <fo:block text-indent="1.25cm" font-size="14pt" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">La liste des figures (_ncluant graphiques, dessins et photographies) suit les mêmes règles que celles établies pour la liste des tableaux. Il est souhaitable que chaque figure soit converti en image pour faciliter le traitement machine.</fo:block>
+   <fo:list-block provisional-distance-between-starts="1.9cm" margin-left="2.54cm" margin-right="0cm">
+    <fo:list-item>
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="14pt" font-family="Garamond"><fo:inline font-weight="bold">1.1.9.</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify"><fo:inline id="_Toc290362841"/><fo:inline font-weight="bold">Liste des abréviations, s_gles et acronymes</fo:inline><fo:inline id="_Toc290362841:end"/><fo:inline font-weight="bold"> </fo:inline></fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+   </fo:list-block>
+   <fo:block text-indent="1.25cm" font-size="14pt" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">Lorsqu’on utilise des abré_iations, des sigles et des acronymes dans un document, on doit dresser une liste alphabétique des abréviations, sigles et acronymes accompagnée de leur signification. Si possible, faire une représentation par tableau de cette liste. Il est à noter que _a liste n’est pas requise qua_d un nombre restreint d’abréviations, de sigles ou _’acronymes est utilisé (Ex. : cinq termes et moins). </fo:block>
+   <fo:list-block provisional-distance-between-starts="1.27cm" margin-left="1.27cm" margin-right="0cm">
+    <fo:list-item>
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="16pt" font-family="Garamond"><fo:inline font-weight="bold">1.2.</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="16pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify"><fo:inline id="_Toc290362842"/><fo:inline font-weight="bold">Le développement ou co_ps du document</fo:inline><fo:inline id="_Toc290362842:end"/><fo:inline font-weight="bold"> </fo:inline></fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+   </fo:list-block>
+   <fo:block text-indent="0.64cm" font-size="14pt" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">Le d_veloppement du corps du support se divise habituellement en c_apitres et sous-chapitres ou en parties et sous parties. Dans un cours, chaque grande idée directrice correspond à un chapitre qui comporte un titre. Cette méthodologie de rédaction du cops du document doit être complétée ultérieu_ement  pour indiquer selon le type de docume_t, la stratégie de présentation à adopter. </fo:block>
+   <fo:list-block provisional-distance-between-starts="1.27cm" margin-left="1.27cm" margin-right="0cm">
+    <fo:list-item>
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="16pt" font-family="Garamond"><fo:inline font-weight="bold">1.3.</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="16pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify"><fo:inline id="_Toc290362843"/><fo:inline font-weight="bold">Les contenus de fin de do_ument</fo:inline><fo:inline id="_Toc290362843:end"/></fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+   </fo:list-block>
+   <fo:list-block provisional-distance-between-starts="1.9cm" margin-left="2.54cm" margin-right="0cm">
+    <fo:list-item>
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="14pt" font-family="Garamond"><fo:inline font-weight="bold">1.3.1.</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify"><fo:inline id="_Toc290362844"/><fo:inline font-weight="bold">La conclusion</fo:inline><fo:inline id="_Toc290362844:end"/></fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+   </fo:list-block>
+   <fo:block text-indent="1.25cm" font-size="14pt" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">La conclusion per_et à l’auteur d_effectuer le b_lan des grandes parties et des propositions présentées dans le développement. On y retrouve le problème initial à résoudre ainsi que la réponse à la question posée ou la solution au problème exposé. </fo:block>
+   <fo:list-block provisional-distance-between-starts="1.9cm" margin-left="2.54cm" margin-right="0cm">
+    <fo:list-item>
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="14pt" font-family="Garamond"><fo:inline font-weight="bold">1.3.2.</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify"><fo:inline id="_Toc290362845"/><fo:inline font-weight="bold">Les recommandations</fo:inline><fo:inline id="_Toc290362845:end"/></fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+   </fo:list-block>
+   <fo:block text-indent="1.25cm" font-size="14pt" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">Il peut s’avérer nécessaire de présent_r les recommandations sur une page distincte lorsque de nouvelles orientation_ d’a_prentissage ou de nouvelles applications sont proposées et que des informations détaillées sont nécessaires. Ces consignes sont considérées comme étant des recommandations et elles sont habituellement exprimées sous forme d’énoncés succincts. Lorsque les recommandations sont peu nombreuses, il est possible de les ajouter à la suite du texte de conclusion. Toutefois, lorsqu’elles sont plus nom_reuses ou qu_elles nécessitent des e_plications détaillées, il est alors suggéré de les présenter sur une page distincte.</fo:block>
+   <fo:list-block provisional-distance-between-starts="1.9cm" margin-left="2.54cm" margin-right="0cm">
+    <fo:list-item>
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="14pt" font-family="Garamond"><fo:inline font-weight="bold">1.3.3.</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify"><fo:inline id="_Toc290362846"/><fo:inline font-weight="bold">Annexes et appendices (s’il y a lieu)</fo:inline><fo:inline id="_Toc290362846:end"/></fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+   </fo:list-block>
+   <fo:block white-space-collapse="false" text-indent="1.25cm" font-size="14pt" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">Les annexes so_t des documents jugés nécessaires à la compréhension du cours et elles constituent un complément nécessaire d’information pour toute per_onne qui voudrait mieux comprendre ou même peut-être mettre _ jour le support.  Les appendices sont considérés comme un supplément d’information et ils ne sont pas j_gés essentiels à la compréhension du document mais il peut être intéressant de les joindre au document. </fo:block>
+   <fo:block font-size="14pt" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">L’an_exe et l’appendice doivent être annoncés dans le cor_s du document à l’endroi_ précis où le lecteur doit les consulter. </fo:block>
+   <fo:list-block provisional-distance-between-starts="1.9cm" margin-left="2.54cm" margin-right="0cm">
+    <fo:list-item>
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="14pt" font-family="Garamond"><fo:inline font-weight="bold">1.3.4.</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify"><fo:inline id="_Toc290362847"/><fo:inline font-weight="bold">La bibliographie et la liste de référe_ce bibliographique</fo:inline><fo:inline id="_Toc290362847:end"/></fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+   </fo:list-block>
+   <fo:block text-indent="0.68cm" font-size="14pt" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">La liste d_ références recense, par ordre alphabétique d’auteurs, l’ensemble d_s ouvrages pertinents lus et cités dans le texte. On y trouve uniqueme_t les ouvrages qui ont servi à la rédaction du texte et à la confection des figures, tableaux et annexes et qui sont cités dans le texte. La biblio_raphie, par contre, recense l’ensemble des livres, documents, communications et art_cles relatifs à un sujet donné, qu’ils aient été c_nsultés ou non, durant l_ travail.</fo:block>
+   <fo:block white-space-collapse="false" white-space-treatment="preserve" space-after="0.35cm" font-size="14pt" line-height="14pt" language="fr" font-family="Garamond"> </fo:block>
+   <fo:list-block provisional-distance-between-starts="0.68cm" margin-left="0cm" margin-right="0cm">
+    <fo:list-item>
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="18pt" font-family="Garamond"><fo:inline font-weight="bold">2.</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="18pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify"><fo:inline id="_Toc290362848"/><fo:inline font-weight="bold">Présentation et règles typographiques</fo:inline><fo:inline id="_Toc290362848:end"/></fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+   </fo:list-block>
+   <fo:block white-space-collapse="false" text-indent="0.68cm" font-size="14pt" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">Ce chapitre vise à permettre aux rédacteurs de support  de se conformer aux exigences de présentation visuelle _insi qu’aux normes de rédaction du tex_e, des nombres, des équations et des formules. </fo:block>
+   <fo:list-block provisional-distance-between-starts="1.27cm" margin-left="1.27cm" margin-right="0cm">
+    <fo:list-item>
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="16pt" font-family="Garamond"><fo:inline font-weight="bold">2.1.</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="16pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify"><fo:inline id="_Toc290362849"/><fo:inline font-weight="bold">Police de caractères</fo:inline><fo:inline id="_Toc290362849:end"/></fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+   </fo:list-block>
+   <fo:block white-space-collapse="false" text-indent="0.64cm" font-size="14pt" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">Le choix de la taille d_ police est laissé aux soins du rédacteur, toute foi, il est conseillé que la taille des caractères à utiliser qui se mesur_ en points (pt)  corresponde à 12 pts. Nous recommandons de choisir les polices de caractères simple et lisible comme  Times New Roman 12 points ; ou A_ial.  Une seule police de caractères doit être utilisée pour l’ensemble du document. </fo:block>
+   <fo:list-block provisional-distance-between-starts="1.27cm" margin-left="1.27cm" margin-right="0cm">
+    <fo:list-item>
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="16pt" font-family="Garamond"><fo:inline font-weight="bold">2.2.</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="16pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify"><fo:inline id="_Toc290362850"/><fo:inline font-weight="bold">Les interlignes</fo:inline><fo:inline id="_Toc290362850:end"/></fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+   </fo:list-block>
+   <fo:block text-indent="0.64cm" font-size="14pt" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">Le texte d’un supp_rt de cours est saisi à un interligne et demi et les paragraphes sont séparés par un retour à la l_gne. Cependant, l’interligne du texte varie sur c_rtaines pages spécifiques. Toutes les pages doivent être saisies jusqu’à la marge inférieure. T_utefois, une page ne doit jamais se terminer par une seule ligne au bas d’une page ou par un titre de s_ction. Il est important de respecter la règle suivante : garder au moins deux lignes d’un même paragraphe à la fin d’une page et _u moins une ligne et un mo_ au début d’une pa_e.</fo:block>
+   <fo:list-block provisional-distance-between-starts="1.27cm" margin-left="1.27cm" margin-right="0cm">
+    <fo:list-item>
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="16pt" font-family="Garamond"><fo:inline font-weight="bold">2.3.</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="16pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify"><fo:inline id="_Toc290362851"/><fo:inline font-weight="bold">Les titres de chapitres et parties</fo:inline><fo:inline id="_Toc290362851:end"/></fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+   </fo:list-block>
+   <fo:block text-indent="0.64cm" font-size="14pt" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">Un cours comporte idéalement t_ois différents niveaux d’information hiérarchisés et numérotés _n pseudo-décimales (Ex. : 2, 2.1, 2.1.1) (Voir Annexe). </fo:block>
+   <fo:block space-after="0.35cm" text-indent="0.64cm" font-size="14pt" space-before="0.42cm" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">Les titres et sous titre_ doivent êtres bie_ enchainés. On doit retrouver toute les imbrications d’un sous titre dans sa numérotation. Par exemple, après le titre 1.1, au lieu d’annoncer le titre a) on doit écrire 1.1.a. On doit s’assurer que chaque titre est reconnu comme tel par Word si nom, le titre sera considérer comme un texte simple. </fo:block>
+   <fo:list-block provisional-distance-between-starts="1.27cm" margin-left="1.27cm" margin-right="0cm">
+    <fo:list-item space-after="10pt" space-before="12pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="16pt" font-family="Garamond"><fo:inline font-weight="bold">2.4.</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="16pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify"><fo:inline id="_Toc290362852"/><fo:inline font-weight="bold">Les tablea_x</fo:inline><fo:inline id="_Toc290362852:end"/></fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+   </fo:list-block>
+   <fo:block white-space-collapse="false" space-after="0.35cm" text-indent="1.25cm" font-size="14pt" space-before="0.42cm" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">Chaque tableau présenté doit être identifié à l’aide d’un titre. Celui-ci com_orte le mot Tableau suivi de son numéro en pseudo-décimales (numéro de chapitre et ordre d’apparition du tableau). Le titre c_mplet du tableau est placé à la suite du numéro. Il est à noter que le titre ne doit pas excéder une ligne.  </fo:block>
+   <fo:block text-indent="1.25cm" font-size="14pt" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">_es tableaux sont constitués de colonnes et de rangées. Les colonnes doivent être séparées par des espaces suffisamment grands pour que les données se lisent fa_ilement. Les rangées sont séparées au besoin par des lignes horizontales. De façon générale, les données sont saisies avec un interligne et demi tout comme le texte courant. Toutefois, pour des raisons d’économie d’espace, un interligne plus petit _eut être utilisé. Lorsqu’un élément du _ableau requiert un renseignement ou une explication supplémentaire, un appel de note est alors inséré à l’endroi_ où l’explication est requise. Les appels d_ note utilisent des lettres afin de les distinguer des notes chiffrées du texte. La note explicative est présentée sous le tableau. Lorsque la source du tableau est citée, cette dernière est placée après la note explicative. </fo:block>
+   <fo:block white-space-collapse="false" font-size="14pt" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">Un t_bleau doit idéalement tenir sur une seule page. Lorsqu’un tableau doit continuer sur une de_xième page, les têtes de colonnes et les têtes de rangées doivent alors être répétées sur la page suivante. On ne doit pas mettre les images dans les tableaux, ni les puces et les  énumérations. Il n’est pas indiqué d’imbriquer les tableaux ni de colorier les cases du tableau.</fo:block>
+   <fo:block white-space-collapse="false" white-space-treatment="preserve" font-size="14pt" line-height="14pt" language="fr" font-family="Garamond"> </fo:block>
+   <fo:block white-space-collapse="false" white-space-treatment="preserve" font-size="14pt" line-height="14pt" language="fr" font-family="Garamond"> </fo:block>
+   <fo:list-block provisional-distance-between-starts="1.27cm" margin-left="1.27cm" margin-right="0cm">
+    <fo:list-item>
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="16pt" font-family="Garamond"><fo:inline font-weight="bold">2.5.</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="16pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify"><fo:inline id="_Toc290362853"/><fo:inline font-weight="bold">Figures et gr_phiques (en image)</fo:inline><fo:inline id="_Toc290362853:end"/></fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+   </fo:list-block>
+   <fo:block white-space-collapse="false" space-after="0.35cm" text-indent="0.64cm" font-size="14pt" space-before="0.42cm" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">Les figures (dessin, schéma, photographie, etc.) comportent en première partie: un titre avec le mot Figure et un numéro en pseudo-décimales (numéro de chapitre et ordre d’apparition). La s_conde partie du titre comporte le titre complet de la figure. L’_nsertion des images se fera en suivant le protocole d’insertion d’image que propose  le logiciel Word. On ne doit pas annoter les images. L’unique façon de le faire, c’est d’utilise_ un outil de modification d’image qui va reconvertir l’ensemble en image après anno_ation et que l’on pour_a importer dans son document.</fo:block>
+   <fo:block space-after="0.35cm" text-indent="0.64cm" font-size="14pt" space-before="0.42cm" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">Le rédacteur ne doit pas insé_er les images (i_ônes) entre les texte_ comme dans l’exemple suiva_t :</fo:block>
+   <fo:block space-after="0.35cm" text-indent="0.64cm" space-before="0.42cm" line-height="14pt" language="fr" orphans="2" widows="2" text-align="justify"><fo:inline><fo:external-graphic scaling="non-uniform" src="url(file:/C:/Users/menra/IdeaProjects/xmlParser1/images/imgaeaaae67.png)" width="15.743cm" content-width="15.743cm" content-height="2.17cm" height="2.17cm"/></fo:inline></fo:block>
+   <fo:block space-after="0.35cm" text-indent="0.64cm" font-size="14pt" space-before="0.42cm" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">La solution peut consister à indexer les icônes sur une image entière et à utiliser les indexes dans la rédaction du document. </fo:block>
+   <fo:list-block provisional-distance-between-starts="1.27cm" margin-left="1.27cm" margin-right="0cm">
+    <fo:list-item space-after="10pt" space-before="12pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="16pt" font-family="Garamond"><fo:inline font-weight="bold">2.6.</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="16pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify"><fo:inline id="_Toc290362854"/><fo:inline font-weight="bold">La rédaction</fo:inline><fo:inline id="_Toc290362854:end"/></fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+   </fo:list-block>
+   <fo:list-block provisional-distance-between-starts="1.9cm" margin-left="2.54cm" margin-right="0cm">
+    <fo:list-item space-after="10pt" space-before="12pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="16pt" font-family="Garamond"><fo:inline font-weight="bold">2.6.1.</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="16pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify"><fo:inline id="_Toc290362855"/><fo:inline font-weight="bold">Utiliser convenablemen_ les signes de ponctuation.</fo:inline><fo:inline id="_Toc290362855:end"/><fo:inline font-weight="bold"> </fo:inline></fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+   </fo:list-block>
+   <fo:block space-after="0.35cm" font-size="14pt" space-before="0.42cm" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">Signes simples : point, virgule : pas d’espace a_ant le signe, un espace après ;</fo:block>
+   <fo:block font-size="14pt" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">Signes composés : double point, point-virgule, point d’interr_gation, point d’exclamation, etc. :</fo:block>
+   <fo:list-block provisional-distance-between-starts="0.64cm" margin-left="1.31cm" margin-right="0cm">
+    <fo:list-item>
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="14pt" font-family="Symbol"><fo:inline>·</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">Un espace avant le sign_,</fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+    <fo:list-item>
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="14pt" font-family="Symbol"><fo:inline>·</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">Un espace après ;</fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+    <fo:list-item>
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="14pt" font-family="Symbol"><fo:inline>·</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">Les parenthèses, crochets, etc. sont ac_olées aux items qu’elles encad_ent ; elles ne prennent donc pas d’espace à l’intérieur mais appell_nt à l’extérieur.</fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+    <fo:list-item>
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="14pt" font-family="Symbol"><fo:inline>·</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">Les po_nts de suspension en fin d’énumération sont _ proscrire. Ils sont avantageusement remplacés par etc.</fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+   </fo:list-block>
+   <fo:list-block provisional-distance-between-starts="1.9cm" margin-left="2.54cm" margin-right="0cm">
+    <fo:list-item>
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="16pt" font-family="Garamond"><fo:inline font-weight="bold">2.6.2.</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="16pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify"><fo:inline id="_Toc290362856"/><fo:inline font-weight="bold">L_s soulignés, le gras, les espacements de paragraphes</fo:inline><fo:inline id="_Toc290362856:end"/><fo:inline font-weight="bold"> </fo:inline></fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+   </fo:list-block>
+   <fo:list-block provisional-distance-between-starts="0.64cm" margin-left="1.31cm" margin-right="0cm">
+    <fo:list-item>
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="14pt" font-family="Symbol"><fo:inline>·</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">Le sou_ignement n’est pas interdit mais déconseillé en _ypographie.</fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+    <fo:list-item>
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="14pt" font-family="Symbol"><fo:inline>·</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">Il vaut mieux mettre en gras _ue d’effec_uer un soulignement.</fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+    <fo:list-item>
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="14pt" font-family="Symbol"><fo:inline>·</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">Il v_ut mieux espacer les paragraphes automatiquement (6 points avant et 6 points après) que d’insér_r des retours de ligne inutiles. </fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+   </fo:list-block>
+   <fo:block white-space-collapse="false" white-space-treatment="preserve" text-indent="0.68cm" font-size="14pt" line-height="14pt" language="fr" font-family="Garamond"> </fo:block>
+   <fo:list-block provisional-distance-between-starts="1.9cm" margin-left="2.54cm" margin-right="0cm">
+    <fo:list-item>
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="16pt" font-family="Garamond"><fo:inline font-weight="bold">2.6.3.</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="16pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify"><fo:inline id="_Toc290362857"/><fo:inline font-weight="bold">La décoration</fo:inline><fo:inline id="_Toc290362857:end"/><fo:inline font-weight="bold"> </fo:inline></fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+   </fo:list-block>
+   <fo:block space-after="0.35cm" text-indent="0.64cm" font-size="14pt" space-before="0.42cm" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">Les décorations du type : bordures de page, filigrame et autres fond d_ texte, ne sont pas conseillés. Il en est de même pour la coloration des cases d’un tableau, l’_ncadrement des titres, l’util_sation des rectangles, carrés _t autres formes prédéfinies dans Word pour l’encadr_ment du texte.</fo:block>
+   <fo:block white-space-collapse="false" space-after="0.35cm" text-indent="0.64cm" font-size="14pt" space-before="0.42cm" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">Les en-têtes et les pied_ de page sont à proscrire car on ne les prend pas en compte pendant la transformation. Notons cependant que pour des besoins sp_cifiques (références, _avigation) le rédacteur du support peut adopter un modèle simple  d’entête ou de pieds de page pour la numé_otation du document et autre. Ces informations ne seront pas prises en considération pendant la conversion du document.</fo:block>
+   <fo:list-block provisional-distance-between-starts="1.9cm" margin-left="2.54cm" margin-right="0cm">
+    <fo:list-item space-after="10pt" space-before="12pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="16pt" font-family="Garamond"><fo:inline font-weight="bold">2.6.4.</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="16pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify"><fo:inline id="_Toc290362858"/><fo:inline font-weight="bold">Les listes (énumérations)</fo:inline><fo:inline id="_Toc290362858:end"/></fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+   </fo:list-block>
+   <fo:block white-space-collapse="false" space-after="0.35cm" text-indent="0.64cm" font-size="14pt" space-before="0.42cm" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">Les puces d’énum_rations doivent êtres les éléments du bloc « puce » de Word. Les tirés, barres, étoile_ ou tout autre caractères choisit manuellement comme puce peuvent ne pas être traités comme tel.  Ne pas choisir des puces en image. L’imbrication de plu_ieurs familles de puces est fortement déconseillée.  Utiliser de préférence les _uces non numérotés. _n cas de nécessité, se comporter comme dans l’exemple _u tableau présentant les étapes de conception d’un cours (cf. annexe). </fo:block>
+   <fo:list-block provisional-distance-between-starts="1.9cm" margin-left="2.54cm" margin-right="0cm">
+    <fo:list-item>
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="16pt" font-family="Garamond"><fo:inline font-weight="bold">2.6.5.</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="16pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify"><fo:inline id="_Toc290362859"/><fo:inline font-weight="bold">Emploi des abréviations, sigles _t acronymes</fo:inline><fo:inline id="_Toc290362859:end"/><fo:inline font-weight="bold"> </fo:inline></fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+   </fo:list-block>
+   <fo:block text-indent="1.25cm" font-size="14pt" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">Lorsque cert_ins mots ou expressions sont utilisés à plu_ieurs reprises dans un document, il s’avère pratique d’utiliser de_ abréviations, des sigles ou des acronymes. Toutefois il est important de s’assurer que le lec_eur en comprenne la signification. Il est donc important de donner la signification d’u_e abréviation, d’un sigle ou d’un acronyme dès sa premièr_ occurrence dans le texte. Le terme doit être écrit en entier et être suivi de son abréviation, laquelle est placée entre parenthèses. Lors de la seconde occurrence dans le texte, le terme es_ remplacé par son abréviation, sigle ou acronyme sans l’usage de parenthèses. _es sigles et les acronymes sont toujours saisis en caractères majuscules, ils ne comportent pas de points abréviatifs et ne prennent pas la marque du pluriel. Il es_ fortement suggéré de consulter des ouvrages spécialisés pour utiliser des d’_bréviations, sigles et acronymes communément reconnus et admis.</fo:block>
+   <fo:block white-space-collapse="false" white-space-treatment="preserve" text-indent="1.25cm" font-size="14pt" line-height="14pt" language="fr" font-family="Garamond"> </fo:block>
+   <fo:list-block provisional-distance-between-starts="0.68cm" margin-left="0cm" margin-right="0cm">
+    <fo:list-item space-after="12pt" space-before="24pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="14pt" font-family="Garamond"><fo:inline font-weight="bold">3.</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="14pt" language="fr" font-family="Garamond" orphans="2" widows="2"><fo:inline id="_Toc290362860"/><fo:inline font-weight="bold">ANNEXE</fo:inline><fo:inline id="_Toc290362860:end"/></fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+   </fo:list-block>
+   <fo:block space-after="0.35cm" font-size="14pt" space-before="0.42cm" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">Exemples de _ocuments bien formés</fo:block>
+
+
+   <fo:list-block provisional-distance-between-starts="1.27cm" margin-left="1.27cm" margin-right="0cm">
+    <fo:list-item space-after="10pt" space-before="12pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="16pt" font-family="Garamond"><fo:inline font-weight="bold">3.1.</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="16pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify"><fo:inline font-weight="bold">Exemple1</fo:inline></fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+   </fo:list-block>
+
+
+   <fo:block space-after="0.35cm" text-indent="0.64cm" space-before="0.42cm" line-height="14pt" language="fr" orphans="2" widows="2" text-align="justify"><fo:inline><fo:external-graphic scaling="non-uniform" src="url(file:/C:/Users/menra/IdeaProjects/xmlParser1/images/img6979f00b.png)" width="9.816cm" content-width="9.816cm" content-height="5.424cm" height="5.424cm"/></fo:inline></fo:block>
+   <fo:list-block provisional-distance-between-starts="1.27cm" margin-left="1.27cm" margin-right="0cm">
+    <fo:list-item space-after="10pt" space-before="12pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="16pt" font-family="Garamond"><fo:inline font-weight="bold">3.2.</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="16pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify"><fo:inline font-weight="bold">Exemple 2</fo:inline></fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+   </fo:list-block>
+   <fo:block space-after="0.35cm" text-indent="0.64cm" space-before="0.42cm" line-height="14pt" language="fr" orphans="2" widows="2" text-align="justify"><fo:inline><fo:external-graphic scaling="non-uniform" src="url(file:/C:/Users/menra/IdeaProjects/xmlParser1/images/img6cc4c72.png)" width="9.631cm" content-width="9.631cm" content-height="5.345cm" height="5.345cm"/></fo:inline></fo:block>
+   <fo:list-block provisional-distance-between-starts="1.27cm" margin-left="1.27cm" margin-right="0cm">
+    <fo:list-item space-after="10pt" space-before="12pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="16pt" font-family="Garamond"><fo:inline font-weight="bold">3.3.</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="16pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify"><fo:inline font-weight="bold">Exemple3</fo:inline></fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+   </fo:list-block>
+   <fo:block space-after="0.35cm" font-size="14pt" space-before="0.42cm" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">Le tableau suivant présente les étapes de conception d’un cours:</fo:block>
+   <fo:table margin-left="-0.2cm" display-align="auto" table-layout="fixed" border-collapse="collapse">
+    <fo:table-column column-width="4.44cm"/>
+    <fo:table-column column-width="12.81cm"/>
+    <fo:table-body>
+     <fo:table-row>
+      <fo:table-cell padding-left="5.4pt" border-color="black" border-width="0.5pt" border-style="solid" padding-right="5.4pt">
+       <fo:block font-size="14pt" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="center">Numéro des étapes</fo:block>
+      </fo:table-cell>
+      <fo:table-cell padding-left="5.4pt" border-color="black" border-width="0.5pt" border-style="solid" padding-right="5.4pt">
+       <fo:block font-size="14pt" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">Action à effectu_r </fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell padding-left="5.4pt" border-color="black" border-width="0.5pt" border-style="solid" padding-right="5.4pt">
+       <fo:block font-size="14pt" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="center">1</fo:block>
+      </fo:table-cell>
+      <fo:table-cell padding-left="5.4pt" border-color="black" border-width="0.5pt" border-style="solid" padding-right="5.4pt">
+       <fo:block font-size="14pt" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">Identifier le public cible </fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell padding-left="5.4pt" border-color="black" border-width="0.5pt" border-style="solid" padding-right="5.4pt">
+       <fo:block font-size="14pt" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="center">2</fo:block>
+      </fo:table-cell>
+      <fo:table-cell padding-left="5.4pt" border-color="black" border-width="0.5pt" border-style="solid" padding-right="5.4pt">
+       <fo:block font-size="14pt" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">Évaluer les besoi_s de formation </fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell padding-left="5.4pt" border-color="black" border-width="0.5pt" border-style="solid" padding-right="5.4pt">
+       <fo:block font-size="14pt" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="center">3</fo:block>
+      </fo:table-cell>
+      <fo:table-cell padding-left="5.4pt" border-color="black" border-width="0.5pt" border-style="solid" padding-right="5.4pt">
+       <fo:block font-size="14pt" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">Fixer l’obje_tif global visé dans le cours </fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell padding-left="5.4pt" border-color="black" border-width="0.5pt" border-style="solid" padding-right="5.4pt">
+       <fo:block font-size="14pt" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="center">4</fo:block>
+      </fo:table-cell>
+      <fo:table-cell padding-left="5.4pt" border-color="black" border-width="0.5pt" border-style="solid" padding-right="5.4pt">
+       <fo:block font-size="14pt" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">Dégager les objectifs spécifique_ du cours </fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell padding-left="5.4pt" border-color="black" border-width="0.5pt" border-style="solid" padding-right="5.4pt">
+       <fo:block font-size="14pt" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="center">5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell padding-left="5.4pt" border-color="black" border-width="0.5pt" border-style="solid" padding-right="5.4pt">
+       <fo:block font-size="14pt" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">Effectuer la recherche documenta_re </fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell padding-left="5.4pt" border-color="black" border-width="0.5pt" border-style="solid" padding-right="5.4pt">
+       <fo:block font-size="14pt" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="center">6</fo:block>
+      </fo:table-cell>
+      <fo:table-cell padding-left="5.4pt" border-color="black" border-width="0.5pt" border-style="solid" padding-right="5.4pt">
+       <fo:block font-size="14pt" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">Editer le support _e cours </fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell padding-left="5.4pt" border-color="black" border-width="0.5pt" border-style="solid" padding-right="5.4pt">
+       <fo:block font-size="14pt" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="center">7</fo:block>
+      </fo:table-cell>
+      <fo:table-cell padding-left="5.4pt" border-color="black" border-width="0.5pt" border-style="solid" padding-right="5.4pt">
+       <fo:block font-size="14pt" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">Solliciter l’_vis critique des autres </fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+    </fo:table-body>
+   </fo:table>
+   <fo:block white-space-collapse="false" white-space-treatment="preserve" font-size="14pt" line-height="14pt" language="fr" font-family="Garamond"> </fo:block>
+   <fo:block font-size="14pt" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="justify">Tableau d_s étapes de conception d’un cours</fo:block>
+   <fo:block-container background-color="#ffe0e0" top="22.60426111111111cm" absolute-position="absolute" left="14.501344444444449cm" width="2.9999999999999996cm" border-color="red" border-width="0.5pt" position="absolute" border-style="solid" height="1.2999999999999998cm">
+    <fo:block text-align="center"><fo:inline font-size="10pt">JFO - Evaluation</fo:inline></fo:block>
+    <fo:block font-size="10pt" text-align="center"><fo:inline color="#000080" font-size="6pt">Ver. 3.01.012 [2014/03/18]</fo:inline></fo:block>
+    <fo:block font-size="6pt" text-align="center"><fo:basic-link external-destination="url(&apos;http://www.vision-cloud.de&apos;)"><fo:inline font-size="7pt">http://www.vision-cloud.de</fo:inline></fo:basic-link></fo:block>
+   </fo:block-container>
+  </fo:flow>
+ </fo:page-sequence>
+</fo:root>

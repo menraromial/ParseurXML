@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Cours>
+  <partie label="1">
+    <titre>parti par defaut</titre>
+    <chapitre label="chapitre par defaut">
+      <titre>titre par defaut</titre>
+      <paragraphe label="paragraphe par defaut">
+        <titre>titre par defaut</titre>
+        <notion label="notion par defaut">
+          <titre>titre par defaut</titre>
+          <contenu>
+            <texte>Evaluation Only. Created w_th Aspose.Words. Copyright 2003-2022 Aspose Pty Ltd.</texte>
+            <texte> </texte>
+            <texte>C_NTROLE DU DOCUMENT</texte>
+            <texte>Auteurs &amp; Versions</texte>
+            <table>
+              <tr>
+                <td>Nom de l’Auteur</td>
+                <td>Versio_</td>
+                <td>Date publica_ion</td>
+                <td>Changements</td>
+              </tr>
+              <tr>
+                <td>NGANMENI Zéphirin</td>
+                <td>1.0</td>
+                <td>12/04/2011</td>
+                <td>Version initiale</td>
+              </tr>
+            </table>
+            <texte />
+            <texte>Pendant  le processus de scénarisat_on, le support de cours traverse plusieurs étapes et change souvent de forme. Pour minimiser l’impact de ces transformations sur le produit final, nous convenons d’adopter un modèle _our la rédaction de nos supports de sorte à se conformer le mieux possible aux exigences du système.</texte>
+            <texte>Ce _ocument présente à cet effet les règles relatives à la rédaction et à la présentation visuelle des différentes parties d’un support de cours. On y trouve l’ordre de présentation des pages ainsi q_e les règles spécifiques à respecter pour les pages prélimin_ires, les pages d’introductio_, de développement, de conclusion et pour les pages complémentaires.</texte>
+            <texte>Le logicie_ de traitement de texte Word est notre e_vironnement de référence, il propose des me_lleurs outils de gestion de mise en page et de hiérarchisati_n du document.</texte>
+            <texte> </texte>
+            <texte> </texte>
+            <texte />
+            <texte>Nous débuterons av_c les pages préliminaires placées au début d’un doc_ment. Elles visent essentiellement à identifier le support de cours, l’auteur, les objectifs_ les dépendances. On y retrouve également une brève description de  la teneur du support et de sa structure.</texte>
+          </contenu>
+        </notion>
+      </paragraphe>
+    </chapitre>
+  </partie>
+  <partie label="2">
+    <titre>Ordre et contenu des parties d’un support de cours</titre>
+    <chapitre label="2">
+      <titre>Pages préliminaires</titre>
+      <paragraphe label="2">
+        <titre>Le titre du cours</titre>
+        <notion label="notion par defaut">
+          <titre>titre par defaut</titre>
+          <contenu>
+            <texte>Le titre constitue la première partie _u support. Il  permet au lecteur de prendre connaissance de l’origine du document et du sujet traité.</texte>
+            <texte>Cette partie du document doit _e présentée so_s forme de tableau  faisant ressortir les éléments suivants:</texte>
+            <ul>
+              <li>L’identifian_ du cadre institutionnel, dans notre cas c’_st la SABC</li>
+              <li>Le _omaine concerné par le support  (exemple : Achat)</li>
+              <li>Le thème développé dans le support.</li>
+              <li>Le  type de docum_nt que représente le support  (cours, fiche de TD, etc.)</li>
+              <li>La version du doc_ment</li>
+              <li>La date (si possible le l_eu) de  rédaction du document</li>
+              <li>La date de la dernière mise à jour</li>
+              <li>Le(s) nom(s) et adresse(s) de(s) au_eur(s)</li>
+              <li>La licence du document (les droits_</li>
+            </ul>
+            <texte>Ces informa_ions peuvent êtres enrichies ou allégées en fonction des circonstances.</texte>
+          </contenu>
+        </notion>
+      </paragraphe>
+      <paragraphe label="2">
+        <titre>La _iste de diffusion</titre>
+        <notion label="notion par defaut">
+          <titre>titre par defaut</titre>
+          <contenu>
+            <texte>La liste de diffusion est _n tableau qui indique les personnes  concernées par le document. On peut y indiqué le rôle de chaque intervenant (_onsultation, validation, information, etc.)</texte>
+          </contenu>
+        </notion>
+      </paragraphe>
+      <paragraphe label="2">
+        <titre>Résumé du support</titre>
+        <notion label="notion par defaut">
+          <titre>titre par defaut</titre>
+          <contenu>
+            <texte>Ce paragraphe f_cultatif, est une description synoptique du contenu du document. Il permet au lecteur, d’avoir une idée du conten_ du document. Cette information prépare ps_chologique le lecteur pour la découverte du contenu développé dans le support.</texte>
+          </contenu>
+        </notion>
+      </paragraphe>
+      <paragraphe label="2">
+        <titre>Les object_fs pédagogiques (cas des supports de cours)</titre>
+        <notion label="notion par defaut">
+          <titre>titre par defaut</titre>
+          <contenu>
+            <texte>Dans _e cas des supports de cours, la description des objectifs pédagogiques en termes de comportements ou de compét_nces observables chez chaque apprenan_ au terme de l’exploitat_on du document. Le pédagogue doit citer point pa_ point ce à quoi l’apprenant devra êtres capable de r_aliser à l’issue du proc_ssus d’apprentissage.</texte>
+          </contenu>
+        </notion>
+      </paragraphe>
+      <paragraphe label="2">
+        <titre>Les dépendances</titre>
+        <notion label="notion par defaut">
+          <titre>titre par defaut</titre>
+          <contenu>
+            <texte>Le tableau de dépendance, présente les différentes ressources nécessaires qu’on _oit mobiliser pour la réalisat_on des objectifs visés dans le support. Pour chaque ressource, on doit spécif_er sa nature en indiquant si la _essource est un pré requis, une ressource complémentaire, un_ démo ou tout autre support devant aller avec le document.</texte>
+          </contenu>
+        </notion>
+      </paragraphe>
+      <paragraphe label="2">
+        <titre>Sommaire ou table des matières</titre>
+        <notion label="notion par defaut">
+          <titre>titre par defaut</titre>
+          <contenu>
+            <texte>Le so_maire, encore appelé  table des matières est la page la plus consultée après la page de titre et la page du résumé car elle donne au lecteur un aperçu s_hématique du contenu du document.  La table des matières comprend le titre de toutes les divisions et sous-divisions du document. Il est à noter que la table des matières comm_nce avec l’introd_ction et elle se termine avec les références bibliographiques ou la bibliogra_hie. Les pages préliminaires ne s_nt pas présentées dans la table des matières.</texte>
+            <texte>Les diffé_ents niveaux d’information sont hiérarchisés numériquement sans dépasser trois niveaux (Ex. : 2.1 = niveau 1, 2.1.1 = niveau 2, 2.1.1.1 = niveau 3). Il est important _e souligner que Word permet de génère automatiquement une table des matières. Toutefois, par mesure de précaution, le rédacteur doit s’assurer que la formulation et l’ordre d’apparition des tit_es dans le document concordent bien avec ceux présentés da_s la table des matières.</texte>
+          </contenu>
+        </notion>
+      </paragraphe>
+      <paragraphe label="2">
+        <titre>La liste des tableaux</titre>
+        <notion label="notion par defaut">
+          <titre>titre par defaut</titre>
+          <contenu>
+            <texte>Dès qu’un document comp_rte plus de trois tableaux, une liste des tableaux doit être dressée et présentée après la table des matières.</texte>
+            <texte>La liste des tableaux présente l_ numéro et le titre de chaque tableau.  Il est souha_table de représenter la liste des tableaux sous forme de tableau à deux colonnes. La première colonne donne l’indexe du table et la seconde colo_ne fait correspondre le nom du tableau.</texte>
+          </contenu>
+        </notion>
+      </paragraphe>
+      <paragraphe label="2">
+        <titre>La liste des figures</titre>
+        <notion label="notion par defaut">
+          <titre>titre par defaut</titre>
+          <contenu>
+            <texte>La liste des figures (_ncluant graphiques, dessins et photographies) suit les mêmes règles que celles établies pour la liste des tableaux. Il est souhaitable que chaque figure soit converti en image pour faciliter le traitement machine.</texte>
+          </contenu>
+        </notion>
+      </paragraphe>
+      <paragraphe label="2">
+        <titre>Liste des abréviations, s_gles et acronymes</titre>
+        <notion label="notion par defaut">
+          <titre>titre par defaut</titre>
+          <contenu>
+            <texte>Lorsqu’on utilise des abré_iations, des sigles et des acronymes dans un document, on doit dresser une liste alphabétique des abréviations, sigles et acronymes accompagnée de leur signification. Si possible, faire une représentation par tableau de cette liste. Il est à noter que _a liste n’est pas requise qua_d un nombre restreint d’abréviations, de sigles ou _’acronymes est utilisé (Ex. : cinq termes et moins).</texte>
+            <texte>Le d_veloppement du corps du support se divise habituellement en c_apitres et sous-chapitres ou en parties et sous parties. Dans un cours, chaque grande idée directrice correspond à un chapitre qui comporte un titre. Cette méthodologie de rédaction du cops du document doit être complétée ultérieu_ement  pour indiquer selon le type de docume_t, la stratégie de présentation à adopter.</texte>
+          </contenu>
+        </notion>
+      </paragraphe>
+    </chapitre>
+    <chapitre label="2">
+      <titre>Le développement ou co_ps du document</titre>
+    </chapitre>
+    <chapitre label="2">
+      <titre>Les contenus de fin de do_ument</titre>
+      <paragraphe label="2">
+        <titre>La conclusion</titre>
+        <notion label="notion par defaut">
+          <titre>titre par defaut</titre>
+          <contenu>
+            <texte>La conclusion per_et à l’auteur d_effectuer le b_lan des grandes parties et des propositions présentées dans le développement. On y retrouve le problème initial à résoudre ainsi que la réponse à la question posée ou la solution au problème exposé.</texte>
+          </contenu>
+        </notion>
+      </paragraphe>
+      <paragraphe label="2">
+        <titre>Les recommandations</titre>
+        <notion label="notion par defaut">
+          <titre>titre par defaut</titre>
+          <contenu>
+            <texte>Il peut s’avérer nécessaire de présent_r les recommandations sur une page distincte lorsque de nouvelles orientation_ d’a_prentissage ou de nouvelles applications sont proposées et que des informations détaillées sont nécessaires. Ces consignes sont considérées comme étant des recommandations et elles sont habituellement exprimées sous forme d’énoncés succincts. Lorsque les recommandations sont peu nombreuses, il est possible de les ajouter à la suite du texte de conclusion. Toutefois, lorsqu’elles sont plus nom_reuses ou qu_elles nécessitent des e_plications détaillées, il est alors suggéré de les présenter sur une page distincte.</texte>
+          </contenu>
+        </notion>
+      </paragraphe>
+      <paragraphe label="2">
+        <titre>Annexes et appendices (s’il y a lieu)</titre>
+        <notion label="notion par defaut">
+          <titre>titre par defaut</titre>
+          <contenu>
+            <texte>Les annexes so_t des documents jugés nécessaires à la compréhension du cours et elles constituent un complément nécessaire d’information pour toute per_onne qui voudrait mieux comprendre ou même peut-être mettre _ jour le support.  Les appendices sont considérés comme un supplément d’information et ils ne sont pas j_gés essentiels à la compréhension du document mais il peut être intéressant de les joindre au document.</texte>
+            <texte>L’an_exe et l’appendice doivent être annoncés dans le cor_s du document à l’endroi_ précis où le lecteur doit les consulter.</texte>
+          </contenu>
+        </notion>
+      </paragraphe>
+      <paragraphe label="2">
+        <titre>La bibliographie et la liste de référe_ce bibliographique</titre>
+        <notion label="notion par defaut">
+          <titre>titre par defaut</titre>
+          <contenu>
+            <texte>La liste d_ références recense, par ordre alphabétique d’auteurs, l’ensemble d_s ouvrages pertinents lus et cités dans le texte. On y trouve uniqueme_t les ouvrages qui ont servi à la rédaction du texte et à la confection des figures, tableaux et annexes et qui sont cités dans le texte. La biblio_raphie, par contre, recense l’ensemble des livres, documents, communications et art_cles relatifs à un sujet donné, qu’ils aient été c_nsultés ou non, durant l_ travail.</texte>
+            <texte> </texte>
+            <texte>Ce chapitre vise à permettre aux rédacteurs de support  de se conformer aux exigences de présentation visuelle _insi qu’aux normes de rédaction du tex_e, des nombres, des équations et des formules.</texte>
+            <texte>Le choix de la taille d_ police est laissé aux soins du rédacteur, toute foi, il est conseillé que la taille des caractères à utiliser qui se mesur_ en points (pt)  corresponde à 12 pts. Nous recommandons de choisir les polices de caractères simple et lisible comme  Times New Roman 12 points ; ou A_ial.  Une seule police de caractères doit être utilisée pour l’ensemble du document.</texte>
+            <texte>Le texte d’un supp_rt de cours est saisi à un interligne et demi et les paragraphes sont séparés par un retour à la l_gne. Cependant, l’interligne du texte varie sur c_rtaines pages spécifiques. Toutes les pages doivent être saisies jusqu’à la marge inférieure. T_utefois, une page ne doit jamais se terminer par une seule ligne au bas d’une page ou par un titre de s_ction. Il est important de respecter la règle suivante : garder au moins deux lignes d’un même paragraphe à la fin d’une page et _u moins une ligne et un mo_ au début d’une pa_e.</texte>
+            <texte>Un cours comporte idéalement t_ois différents niveaux d’information hiérarchisés et numérotés _n pseudo-décimales (Ex. : 2, 2.1, 2.1.1) (Voir Annexe).</texte>
+            <texte>Les titres et sous titre_ doivent êtres bie_ enchainés. On doit retrouver toute les imbrications d’un sous titre dans sa numérotation. Par exemple, après le titre 1.1, au lieu d’annoncer le titre a) on doit écrire 1.1.a. On doit s’assurer que chaque titre est reconnu comme tel par Word si nom, le titre sera considérer comme un texte simple.</texte>
+            <texte>Chaque tableau présenté doit être identifié à l’aide d’un titre. Celui-ci com_orte le mot Tableau suivi de son numéro en pseudo-décimales (numéro de chapitre et ordre d’apparition du tableau). Le titre c_mplet du tableau est placé à la suite du numéro. Il est à noter que le titre ne doit pas excéder une ligne.</texte>
+            <texte>_es tableaux sont constitués de colonnes et de rangées. Les colonnes doivent être séparées par des espaces suffisamment grands pour que les données se lisent fa_ilement. Les rangées sont séparées au besoin par des lignes horizontales. De façon générale, les données sont saisies avec un interligne et demi tout comme le texte courant. Toutefois, pour des raisons d’économie d’espace, un interligne plus petit _eut être utilisé. Lorsqu’un élément du _ableau requiert un renseignement ou une explication supplémentaire, un appel de note est alors inséré à l’endroi_ où l’explication est requise. Les appels d_ note utilisent des lettres afin de les distinguer des notes chiffrées du texte. La note explicative est présentée sous le tableau. Lorsque la source du tableau est citée, cette dernière est placée après la note explicative.</texte>
+            <texte>Un t_bleau doit idéalement tenir sur une seule page. Lorsqu’un tableau doit continuer sur une de_xième page, les têtes de colonnes et les têtes de rangées doivent alors être répétées sur la page suivante. On ne doit pas mettre les images dans les tableaux, ni les puces et les  énumérations. Il n’est pas indiqué d’imbriquer les tableaux ni de colorier les cases du tableau.</texte>
+            <texte> </texte>
+            <texte> </texte>
+            <texte>Les figures (dessin, schéma, photographie, etc.) comportent en première partie: un titre avec le mot Figure et un numéro en pseudo-décimales (numéro de chapitre et ordre d’apparition). La s_conde partie du titre comporte le titre complet de la figure. L’_nsertion des images se fera en suivant le protocole d’insertion d’image que propose  le logiciel Word. On ne doit pas annoter les images. L’unique façon de le faire, c’est d’utilise_ un outil de modification d’image qui va reconvertir l’ensemble en image après anno_ation et que l’on pour_a importer dans son document.</texte>
+            <texte>Le rédacteur ne doit pas insé_er les images (i_ônes) entre les texte_ comme dans l’exemple suiva_t :</texte>
+            <image>url(file:/C:/Users/menra/IdeaProjects/xmlParser1/images/imgaeaaae67.png)</image>
+            <texte>La solution peut consister à indexer les icônes sur une image entière et à utiliser les indexes dans la rédaction du document.</texte>
+          </contenu>
+        </notion>
+      </paragraphe>
+    </chapitre>
+  </partie>
+  <partie label="3">
+    <titre>Présentation et règles typographiques</titre>
+    <chapitre label="3">
+      <titre>Police de caractères</titre>
+    </chapitre>
+    <chapitre label="3">
+      <titre>Les interlignes</titre>
+    </chapitre>
+    <chapitre label="3">
+      <titre>Les titres de chapitres et parties</titre>
+    </chapitre>
+    <chapitre label="3">
+      <titre>Les tablea_x</titre>
+    </chapitre>
+    <chapitre label="3">
+      <titre>Figures et gr_phiques (en image)</titre>
+    </chapitre>
+    <chapitre label="3">
+      <titre>La rédaction</titre>
+      <paragraphe label="3">
+        <titre>Utiliser convenablemen_ les signes de ponctuation.</titre>
+        <notion label="notion par defaut">
+          <titre>titre par defaut</titre>
+          <contenu>
+            <texte>Signes simples : point, virgule : pas d’espace a_ant le signe, un espace après ;</texte>
+            <texte>Signes composés : double point, point-virgule, point d’interr_gation, point d’exclamation, etc. :</texte>
+            <ul>
+              <li>Un espace avant le sign_,</li>
+              <li>Un espace après ;</li>
+              <li>Les parenthèses, crochets, etc. sont ac_olées aux items qu’elles encad_ent ; elles ne prennent donc pas d’espace à l’intérieur mais appell_nt à l’extérieur.</li>
+              <li>Les po_nts de suspension en fin d’énumération sont _ proscrire. Ils sont avantageusement remplacés par etc.</li>
+            </ul>
+          </contenu>
+        </notion>
+      </paragraphe>
+      <paragraphe label="3">
+        <titre>L_s soulignés, le gras, les espacements de paragraphes</titre>
+        <notion label="notion par defaut">
+          <titre>titre par defaut</titre>
+          <contenu>
+            <ul>
+              <li>Le sou_ignement n’est pas interdit mais déconseillé en _ypographie.</li>
+              <li>Il vaut mieux mettre en gras _ue d’effec_uer un soulignement.</li>
+              <li>Il v_ut mieux espacer les paragraphes automatiquement (6 points avant et 6 points après) que d’insér_r des retours de ligne inutiles.</li>
+            </ul>
+            <texte> </texte>
+          </contenu>
+        </notion>
+      </paragraphe>
+      <paragraphe label="3">
+        <titre>La décoration</titre>
+        <notion label="notion par defaut">
+          <titre>titre par defaut</titre>
+          <contenu>
+            <texte>Les décorations du type : bordures de page, filigrame et autres fond d_ texte, ne sont pas conseillés. Il en est de même pour la coloration des cases d’un tableau, l’_ncadrement des titres, l’util_sation des rectangles, carrés _t autres formes prédéfinies dans Word pour l’encadr_ment du texte.</texte>
+            <texte>Les en-têtes et les pied_ de page sont à proscrire car on ne les prend pas en compte pendant la transformation. Notons cependant que pour des besoins sp_cifiques (références, _avigation) le rédacteur du support peut adopter un modèle simple  d’entête ou de pieds de page pour la numé_otation du document et autre. Ces informations ne seront pas prises en considération pendant la conversion du document.</texte>
+          </contenu>
+        </notion>
+      </paragraphe>
+      <paragraphe label="3">
+        <titre>Les listes (énumérations)</titre>
+        <notion label="notion par defaut">
+          <titre>titre par defaut</titre>
+          <contenu>
+            <texte>Les puces d’énum_rations doivent êtres les éléments du bloc « puce » de Word. Les tirés, barres, étoile_ ou tout autre caractères choisit manuellement comme puce peuvent ne pas être traités comme tel.  Ne pas choisir des puces en image. L’imbrication de plu_ieurs familles de puces est fortement déconseillée.  Utiliser de préférence les _uces non numérotés. _n cas de nécessité, se comporter comme dans l’exemple _u tableau présentant les étapes de conception d’un cours (cf. annexe).</texte>
+          </contenu>
+        </notion>
+      </paragraphe>
+      <paragraphe label="3">
+        <titre>Emploi des abréviations, sigles _t acronymes</titre>
+        <notion label="notion par defaut">
+          <titre>titre par defaut</titre>
+          <contenu>
+            <texte>Lorsque cert_ins mots ou expressions sont utilisés à plu_ieurs reprises dans un document, il s’avère pratique d’utiliser de_ abréviations, des sigles ou des acronymes. Toutefois il est important de s’assurer que le lec_eur en comprenne la signification. Il est donc important de donner la signification d’u_e abréviation, d’un sigle ou d’un acronyme dès sa premièr_ occurrence dans le texte. Le terme doit être écrit en entier et être suivi de son abréviation, laquelle est placée entre parenthèses. Lors de la seconde occurrence dans le texte, le terme es_ remplacé par son abréviation, sigle ou acronyme sans l’usage de parenthèses. _es sigles et les acronymes sont toujours saisis en caractères majuscules, ils ne comportent pas de points abréviatifs et ne prennent pas la marque du pluriel. Il es_ fortement suggéré de consulter des ouvrages spécialisés pour utiliser des d’_bréviations, sigles et acronymes communément reconnus et admis.</texte>
+            <texte> </texte>
+            <texte>Exemples de _ocuments bien formés</texte>
+            <image>url(file:/C:/Users/menra/IdeaProjects/xmlParser1/images/img6979f00b.png)</image>
+            <image>url(file:/C:/Users/menra/IdeaProjects/xmlParser1/images/img6cc4c72.png)</image>
+            <texte>Le tableau suivant présente les étapes de conception d’un cours:</texte>
+            <table>
+              <tr>
+                <td>Numéro des étapes</td>
+                <td>Action à effectu_r</td>
+              </tr>
+              <tr>
+                <td>1</td>
+                <td>Identifier le public cible</td>
+              </tr>
+              <tr>
+                <td>2</td>
+                <td>Évaluer les besoi_s de formation</td>
+              </tr>
+              <tr>
+                <td>3</td>
+                <td>Fixer l’obje_tif global visé dans le cours</td>
+              </tr>
+              <tr>
+                <td>4</td>
+                <td>Dégager les objectifs spécifique_ du cours</td>
+              </tr>
+              <tr>
+                <td>5</td>
+                <td>Effectuer la recherche documenta_re</td>
+              </tr>
+              <tr>
+                <td>6</td>
+                <td>Editer le support _e cours</td>
+              </tr>
+              <tr>
+                <td>7</td>
+                <td>Solliciter l’_vis critique des autres</td>
+              </tr>
+            </table>
+            <texte> </texte>
+            <texte>Tableau d_s étapes de conception d’un cours</texte>
+          </contenu>
+        </notion>
+      </paragraphe>
+    </chapitre>
+  </partie>
+  <partie label="4">
+    <titre>ANNEXE</titre>
+    <chapitre label="4">
+      <titre>Exemple1</titre>
+    </chapitre>
+    <chapitre label="4">
+      <titre>Exemple 2</titre>
+    </chapitre>
+    <chapitre label="4">
+      <titre>Exemple3</titre>
+    </chapitre>
+  </partie>
+</Cours>
+

@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="jdom-2.0.6.1-contrib-sources">
+    <CLASSES>
+      <root url="jar://E:/IntellijC/jdom/jdom-2.0.6.1-contrib.jar!/" />
+      <root url="jar://E:/IntellijC/jdom/jdom-2.0.6.1-junit.jar!/" />
+      <root url="jar://E:/IntellijC/jdom/jdom-2.0.6.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://E:/IntellijC/jdom/jdom-2.0.6.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://E:/IntellijC/jdom/jdom-2.0.6.1-contrib-sources.jar!/" />
+      <root url="jar://E:/IntellijC/jdom/jdom-2.0.6.1-junit-sources.jar!/" />
+      <root url="jar://E:/IntellijC/jdom/jdom-2.0.6.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

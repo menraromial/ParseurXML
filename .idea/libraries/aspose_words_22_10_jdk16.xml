@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="aspose-words-22.10-jdk16">
+    <CLASSES>
+      <root url="jar://E:/IntellijC/Libraries/aspose-words-22.10-jdk16.jar!/" />
+      <root url="file://E:/IntellijC/Libraries/parseur" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://E:/IntellijC/Libraries/parseur" />
+    </SOURCES>
+    <jarDirectory url="file://E:/IntellijC/Libraries/parseur" recursive="false" />
+    <jarDirectory url="file://E:/IntellijC/Libraries/parseur" recursive="false" type="SOURCES" />
+  </library>
+</component>

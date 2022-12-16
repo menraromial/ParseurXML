@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format">
+ <fo:layout-master-set>
+  <fo:simple-page-master margin-left="2.499431cm" master-name="spm0" page-height="29.7004cm" margin-top="1.25cm" margin-bottom="1.25cm" page-width="21.0009cm" margin-right="2.499431cm">
+   <fo:region-body margin-top="1.25cm" margin-bottom="1.25cm"/>
+   <fo:region-before extent="25.95cm" overflow="visible" precedence="false"/>
+   <fo:region-after extent="28.45cm" overflow="visible" display-align="after" precedence="false"/>
+  </fo:simple-page-master>
+ </fo:layout-master-set>
+ <fo:page-sequence master-reference="spm0" language="fr" hyphenate="false">
+  <fo:static-content flow-name="xsl-region-after">
+   <fo:block space-after="0.28cm" font-size="12pt" line-height="12pt" language="fr" font-family="Calibri" orphans="2" widows="2"><fo:inline color="#ff0000" font-weight="bold">Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/</fo:inline></fo:block>
+  </fo:static-content>
+  <fo:static-content flow-name="xsl-region-before">
+   <fo:block-container z-index="-2" overflow="visible" top="1.251cm" absolute-position="absolute" left="0cm" width="16.002cm" position="absolute" height="8.696cm">
+    <fo:block><fo:inline><fo:external-graphic scaling="non-uniform" src="url(file:/C:/Users/menra/IdeaProjects/xmlParser1/images/img24fc2d35.png)" width="16.002cm" content-width="16.002cm" content-height="8.696cm" height="8.696cm"/></fo:inline></fo:block>
+   </fo:block-container>
+   <fo:block white-space-collapse="false" white-space-treatment="preserve" space-after="0.28cm" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri"> </fo:block>
+  </fo:static-content>
+  <fo:flow flow-name="xsl-region-body">
+   <fo:block space-after="0.28cm" font-size="12pt" line-height="12pt" language="en" font-family="Calibri" orphans="2" widows="2"><fo:inline color="#ff0000" font-weight="bold">Evaluatio_ Only. Created with Aspose.Words. Copyright 2003-2022 Aspose Pty Ltd.</fo:inline></fo:block>
+   <fo:block space-after="0.28cm" font-size="20pt" line-height="20pt" language="en" font-family="Calibri" orphans="2" widows="2" text-align="center"><fo:inline color="#ff0000" font-weight="bold">Des_gning with the mind in mind: the psychological basis for UI design rules</fo:inline></fo:block>
+   <fo:block line-height="20pt" space-after="0.28cm" orphans="2" widows="2" text-align="center"><fo:inline><fo:external-graphic scaling="non-uniform" src="url(file:/C:/Users/menra/IdeaProjects/xmlParser1/images/img9de8fe02.png)" width="15.665cm" content-width="15.665cm" content-height="8.812cm" height="8.812cm"/></fo:inline></fo:block>
+   <fo:block space-after="0.28cm" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri" orphans="2" widows="2">En guise d’_ntroduction, il nous fait un appel des 8 règles d’or de Ben Schneider man, des li_nes de conduite de Neilsen et Molich (utilisées pour la conception et _’éval_ation de sites web et des lignes de conduite de Stone et al (2005).  La problématiq_e _ci est pourquoi, bien que datant d’époques différentes, ces règles sont plus ou _oins similaires. La raison n_est pas le plagiat mais parce que celles-ci sont basées sur la façon dont les hommes pense_t, perçoivent l_s évènements et cette percepti_n bien qu’influencée par _a soc_été n’évolue pas grandement avec le temps. </fo:block>
+   <fo:block space-after="0.28cm" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri" orphans="2" widows="2">Il n_us montre que ces règles ne sont pas des rec_ttes de cuisine en faisant ressortir l’ambiguïté de cer_aines d’entre elles. L’objet de la suite de sa présentation est donc de c_mprendre d_où vienne_t ces règles et la science derrière celles-ci et pour ce_a il insiste sur l’influence des processus de percepti_n et les processus cognitifs sur la conception des interfaces</fo:block>
+   <fo:block space-after="0.28cm" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri" orphans="2" widows="2">Perceptio_ :</fo:block>
+   <fo:list-block provisional-distance-between-starts="0.64cm" margin-left="0.64cm" margin-right="0cm">
+    <fo:list-item space-after="8pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="11pt" font-family="Calibri"><fo:inline>-</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="11pt" language="fr" font-family="Calibri" orphans="2" widows="2">On perçoit ce à quoi on s’a_tend en se a=basant sur notre expérience(passe), le contexte courant_passe) et les objectifs futurs. Notre cerveau est conçu _our tenir compte d’abord des objets qui sont en relation a_ec notre objectif.  Ainsi en ressortant d’une pièce, on se souviendra primordialemen_ des objets ayant trait à la raison pour laquelle on est entre dans la pièce. </fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+    <fo:list-item space-after="8pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="11pt" font-family="Calibri"><fo:inline>-</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block white-space-treatment="preserve" font-size="11pt" language="fr" font-family="Calibri" orphans="2" widows="2"> Le système visue_ humain n’est pas conçu po_r distinguer des degrés de luminosité mais beaucoup pour a_préhender les formes, les extrémités, les différences, l_s changements… Il est particulièrement diffic_le de distinguer des couleurs pal_s, disposées sur de faibles surface_ (plus la sur_ace colorée est grande, mieux sera la perception e_ la distinction) et séparées (plus _a distance entre nos surfaces c_lorées est grande, plus ce se_a difficile de percevoir la différence). De plus 8% des hommes et 0,5% des femmes ont des problèmes de distinction de certaines couleurs. I_ est donc _ecommandé de ne pas se r_poser sur des couleurs pour fournir la rétroaction. </fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+    <fo:list-item space-after="8pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="11pt" font-family="Calibri"><fo:inline>-</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="11pt" language="fr" font-family="Calibri" orphans="2" widows="2">La vision périphérique des indivi_us est très mauvaise. A_nsi il est recommandé de disposer les éléments pertine_ts dans des zones visible par l’utilisateur, utiliser le rouge pour les erreurs et les placer propres du dernier emplacement du curseur ou les centrer. Il est aussi idéal d’utiliser des symboles pour les erreurs. Artiller_e lourde : Boites de d_alogue, BEP sonores, Des fla_h brefs ou continues. Noter toutefois qu’ils sont très dépréciés par l’utilisateur. </fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+   </fo:list-block>
+   <fo:block space-after="0.28cm" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri" orphans="2" widows="2">Cognition </fo:block>
+   <fo:list-block provisional-distance-between-starts="0.64cm" margin-left="0.64cm" margin-right="0cm">
+    <fo:list-item space-after="8pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="11pt" font-family="Calibri"><fo:inline>-</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="11pt" language="fr" font-family="Calibri" orphans="2" widows="2">Notre attention est limitée et les limites de celles condi_ionnent notre façon de penser et d’agir</fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+    <fo:list-item space-after="8pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="11pt" font-family="Calibri"><fo:inline>-</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="11pt" language="fr" font-family="Calibri" orphans="2" widows="2">Short terme memory : _eprésentation de l’état actue_ de la mém_ire. Très limitée et ne doit être faite po_r retenir des informations mais plus pour une reconnaissance immédiate de l’info lue il y’a quelques instants</fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+    <fo:list-item space-after="8pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="11pt" font-family="Calibri"><fo:inline>-</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="11pt" language="fr" font-family="Calibri" orphans="2" widows="2">Mémoire à long terme : Ne pas charger sa mémoire a l_ng terme mais retenir les informations nécessaires pour une r_connaissance _ltérieure. </fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+    <fo:list-item space-after="8pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="11pt" font-family="Calibri"><fo:inline>-</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="11pt" language="fr" font-family="Calibri" orphans="2" widows="2">L’apprentissage par expérience et la ré_étition d’actions déjà apprises sont a_ses contrairement a la résolution de problèmes et aux calculs. </fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+   </fo:list-block>
+   <fo:block-container background-color="#ffe0e0" top="23.401538888888886cm" absolute-position="absolute" left="13.00203888888889cm" width="2.9999999999999996cm" border-color="red" border-width="0.5pt" position="absolute" border-style="solid" height="1.2999999999999998cm">
+    <fo:block text-align="center"><fo:inline font-size="10pt">JFO - Evaluation</fo:inline></fo:block>
+    <fo:block font-size="10pt" text-align="center"><fo:inline color="#000080" font-size="6pt">Ver. 3.01.012 [2014/03/18]</fo:inline></fo:block>
+    <fo:block font-size="6pt" text-align="center"><fo:basic-link external-destination="url(&apos;http://www.vision-cloud.de&apos;)"><fo:inline font-size="7pt">http://www.vision-cloud.de</fo:inline></fo:basic-link></fo:block>
+   </fo:block-container>
+  </fo:flow>
+ </fo:page-sequence>
+</fo:root>

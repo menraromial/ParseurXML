@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format">
+ <fo:layout-master-set>
+  <fo:simple-page-master margin-left="2.499431cm" master-name="spm0" page-height="29.7004cm" margin-top="1.25cm" margin-bottom="1.25cm" page-width="21.0009cm" margin-right="2.499431cm">
+   <fo:region-body margin-top="1.25cm" margin-bottom="1.25cm"/>
+   <fo:region-before extent="25.95cm" overflow="visible" precedence="false"/>
+   <fo:region-after extent="28.45cm" overflow="visible" display-align="after" precedence="false"/>
+  </fo:simple-page-master>
+ </fo:layout-master-set>
+ <fo:page-sequence master-reference="spm0" language="fr" hyphenate="false">
+  <fo:static-content flow-name="xsl-region-after">
+   <fo:block-container padding-top="3.6pt" z-index="-1" absolute-position="absolute" padding-left="7.2pt" padding-bottom="3.6pt" background-color="#7030a0" overflow="visible" top="0.626cm" left="0.254cm" width="0.762cm" position="absolute" height="0.635cm" padding-right="7.2pt">
+    <fo:block space-after="0.28cm" font-size="14pt" line-height="14pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="right"><fo:page-number color="#ffffff" font-size="14pt" font-family="Garamond"/></fo:block>
+    <fo:block white-space-collapse="false" white-space-treatment="preserve" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri"> </fo:block>
+   </fo:block-container>
+   <fo:block-container padding-top="3.6pt" overflow="visible" top="0.81cm" absolute-position="absolute" left="0.254cm" padding-left="7.2pt" width="15.441cm" padding-bottom="3.6pt" position="absolute" height="0.462cm" padding-right="7.2pt">
+    <fo:block space-after="0.28cm" font-size="11pt" line-height="11pt" language="en" font-family="Garamond" orphans="2" widows="2" text-align="right"><fo:inline color="#7f7f7f">November 17, 2022</fo:inline></fo:block>
+    <fo:block white-space-collapse="false" white-space-treatment="preserve" space-after="0.28cm" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri"> </fo:block>
+    <fo:block white-space-collapse="false" white-space-treatment="preserve" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri"> </fo:block>
+   </fo:block-container>
+   <fo:block-container background-color="#7030a0" overflow="visible" top="0.499cm" absolute-position="absolute" left="0.049cm" width="15.953cm" position="absolute" height="0.051cm">
+    <fo:block/>
+   </fo:block-container>
+   <fo:block space-after="0.28cm" font-size="12pt" line-height="12pt" language="fr" font-family="Calibri" orphans="2" widows="2"><fo:inline color="#ff0000" font-weight="bold">Created with an evaluation cop_ of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/</fo:inline></fo:block>
+   <fo:block white-space-collapse="false" white-space-treatment="preserve" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri"> </fo:block>
+  </fo:static-content>
+  <fo:static-content flow-name="xsl-region-before">
+   <fo:block-container z-index="-2" overflow="visible" top="1.251cm" absolute-position="absolute" left="0cm" width="16.002cm" position="absolute" height="8.696cm">
+    <fo:block><fo:inline><fo:external-graphic scaling="non-uniform" src="url(file:/C:/Users/menra/IdeaProjects/xmlParser1/images/imgc71cbba9.png)" width="16.002cm" content-width="16.002cm" content-height="8.696cm" height="8.696cm"/></fo:inline></fo:block>
+   </fo:block-container>
+   <fo:block white-space-collapse="false" white-space-treatment="preserve" space-after="0.28cm" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri"> </fo:block>
+  </fo:static-content>
+  <fo:flow flow-name="xsl-region-body">
+   <fo:block space-after="0.28cm" font-size="12pt" line-height="12pt" language="fr" font-family="Calibri" orphans="2" widows="2"><fo:inline color="#ff0000" font-weight="bold">Evaluation Only. Created with Aspose.Words. Copyright 2003-2022 Aspose Pty Ltd.</fo:inline></fo:block>
+
+   <fo:block keep-with-next.within-page="always" keep-together.within-page="always" font-size="16pt" space-before="0.42cm" line-height="16pt" language="en" font-family="Garamond" orphans="2" widows="2"><fo:inline id="_Hlk115219794"/><fo:inline color="#7030a0" font-weight="bold">Table de matières</fo:inline></fo:block>
+   <fo:block space-after="0.18cm" text-align-last="justify" font-size="11pt" line-height="11pt" language="fr" font-family="Garamond" orphans="2" widows="2"><fo:basic-link internal-destination="_Toc119551975" font-size="11pt" font-family="Calibri"><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" font-weight="bold" text-decoration="underline">Introduction</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length.maximum="100%" leader-pattern="dots"/><fo:page-number-citation font-size="11pt" font-family="Garamond" ref-id="_Toc119551975"/></fo:basic-link></fo:block>
+   <fo:block space-after="0.18cm" text-align-last="justify" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri" orphans="2" widows="2"><fo:basic-link internal-destination="_Toc119551976" font-size="11pt" font-family="Calibri"><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" font-weight="bold" text-decoration="underline">I.</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length="13.8pt"/><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" font-weight="bold" text-decoration="underline">Historique de la méthod_ kanban :</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length.maximum="100%" leader-pattern="dots"/><fo:page-number-citation font-size="11pt" font-family="Garamond" ref-id="_Toc119551976"/></fo:basic-link></fo:block>
+   <fo:block margin-left="0.39cm" space-after="0.18cm" text-align-last="justify" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri" orphans="2" widows="2"><fo:basic-link internal-destination="_Toc119551977" font-size="11pt" font-family="Calibri"><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">1.</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length="14.8pt"/><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">D’où vient le nom kanban ?</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length.maximum="100%" leader-pattern="dots"/><fo:page-number-citation font-size="11pt" font-family="Garamond" ref-id="_Toc119551977"/></fo:basic-link></fo:block>
+   <fo:block margin-left="0.39cm" space-after="0.18cm" text-align-last="justify" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri" orphans="2" widows="2"><fo:basic-link internal-destination="_Toc119551978" font-size="11pt" font-family="Calibri"><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">2.</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length="14.8pt"/><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">Origine de la méthode kanban :</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length.maximum="100%" leader-pattern="dots"/><fo:page-number-citation font-size="11pt" font-family="Garamond" ref-id="_Toc119551978"/></fo:basic-link></fo:block>
+   <fo:block space-after="0.18cm" text-align-last="justify" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri" orphans="2" widows="2"><fo:basic-link internal-destination="_Toc119551979" font-size="11pt" font-family="Calibri"><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" font-weight="bold" text-decoration="underline">II.</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length="19.650000000000002pt"/><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" font-weight="bold" text-decoration="underline">Principes Kanban</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length.maximum="100%" leader-pattern="dots"/><fo:page-number-citation font-size="11pt" font-family="Garamond" ref-id="_Toc119551979"/></fo:basic-link></fo:block>
+   <fo:block margin-left="0.39cm" space-after="0.18cm" text-align-last="justify" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri" orphans="2" widows="2"><fo:basic-link internal-destination="_Toc119551980" font-size="11pt" font-family="Calibri"><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">1.</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length="14.8pt"/><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">Principes de gestion du ch_ngement</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length.maximum="100%" leader-pattern="dots"/><fo:page-number-citation font-size="11pt" font-family="Garamond" ref-id="_Toc119551980"/></fo:basic-link></fo:block>
+   <fo:block margin-left="0.39cm" space-after="0.18cm" text-align-last="justify" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri" orphans="2" widows="2"><fo:basic-link internal-destination="_Toc119551981" font-size="11pt" font-family="Calibri"><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">2.</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length="14.8pt"/><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">Principes de pre_tation de services</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length.maximum="100%" leader-pattern="dots"/><fo:page-number-citation font-size="11pt" font-family="Garamond" ref-id="_Toc119551981"/></fo:basic-link></fo:block>
+   <fo:block margin-left="0.39cm" space-after="0.18cm" text-align-last="justify" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri" orphans="2" widows="2"><fo:basic-link internal-destination="_Toc119551982" font-size="11pt" font-family="Calibri"><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">3.</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length="14.8pt"/><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">Pratiques générale_ Kanban</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length.maximum="100%" leader-pattern="dots"/><fo:page-number-citation font-size="11pt" font-family="Garamond" ref-id="_Toc119551982"/></fo:basic-link></fo:block>
+   <fo:block margin-left="0.78cm" space-after="0.18cm" text-align-last="justify" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri" orphans="2" widows="2"><fo:basic-link internal-destination="_Toc119551983" font-size="11pt" font-family="Calibri"><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">3.1.</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length="18.6pt"/><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">Vis_aliser</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length.maximum="100%" leader-pattern="dots"/><fo:page-number-citation font-size="11pt" font-family="Garamond" ref-id="_Toc119551983"/></fo:basic-link></fo:block>
+   <fo:block margin-left="0.78cm" space-after="0.18cm" text-align-last="justify" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri" orphans="2" widows="2"><fo:basic-link internal-destination="_Toc119551984" font-size="11pt" font-family="Calibri"><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">3.2.</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length="18.6pt"/><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">Limiter les travaux en cours (WIP)</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length.maximum="100%" leader-pattern="dots"/><fo:page-number-citation font-size="11pt" font-family="Garamond" ref-id="_Toc119551984"/></fo:basic-link></fo:block>
+   <fo:block margin-left="0.78cm" space-after="0.18cm" text-align-last="justify" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri" orphans="2" widows="2"><fo:basic-link internal-destination="_Toc119551985" font-size="11pt" font-family="Calibri"><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">3._.</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length="17.55pt"/><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">Gérer le flux</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length.maximum="100%" leader-pattern="dots"/><fo:page-number-citation font-size="11pt" font-family="Garamond" ref-id="_Toc119551985"/></fo:basic-link></fo:block>
+   <fo:block margin-left="0.78cm" space-after="0.18cm" text-align-last="justify" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri" orphans="2" widows="2"><fo:basic-link internal-destination="_Toc119551986" font-size="11pt" font-family="Calibri"><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">3.4.</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length="18.6pt"/><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">Rendre les politiques explicite_</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length.maximum="100%" leader-pattern="dots"/><fo:page-number-citation font-size="11pt" font-family="Garamond" ref-id="_Toc119551986"/></fo:basic-link></fo:block>
+   <fo:block margin-left="0.78cm" space-after="0.18cm" text-align-last="justify" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri" orphans="2" widows="2"><fo:basic-link internal-destination="_Toc119551987" font-size="11pt" font-family="Calibri"><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">3.5.</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length="18.6pt"/><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">M_ttre en œuvre des boucles de ré_roaction (rétroaction)</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length.maximum="100%" leader-pattern="dots"/><fo:page-number-citation font-size="11pt" font-family="Garamond" ref-id="_Toc119551987"/></fo:basic-link></fo:block>
+   <fo:block margin-left="0.78cm" space-after="0.18cm" text-align-last="justify" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri" orphans="2" widows="2"><fo:basic-link internal-destination="_Toc119551988" font-size="11pt" font-family="Calibri"><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">3.6.</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length="18.6pt"/><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">S’améliorer en collaborant, év_luer en expérimentant</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length.maximum="100%" leader-pattern="dots"/><fo:page-number-citation font-size="11pt" font-family="Garamond" ref-id="_Toc119551988"/></fo:basic-link></fo:block>
+   <fo:block margin-left="0.39cm" space-after="0.18cm" text-align-last="justify" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri" orphans="2" widows="2"><fo:basic-link internal-destination="_Toc119551989" font-size="11pt" font-family="Calibri"><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">4.</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length="14.8pt"/><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">Tableaux Kanban</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length.maximum="100%" leader-pattern="dots"/><fo:page-number-citation font-size="11pt" font-family="Garamond" ref-id="_Toc119551989"/></fo:basic-link></fo:block>
+   <fo:block margin-left="0.39cm" space-after="0.18cm" text-align-last="justify" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri" orphans="2" widows="2"><fo:basic-link internal-destination="_Toc119551990" font-size="11pt" font-family="Calibri"><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">5.</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length="14.8pt"/><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">Métriques fondamentales d_ Kanban</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length.maximum="100%" leader-pattern="dots"/><fo:page-number-citation font-size="11pt" font-family="Garamond" ref-id="_Toc119551990"/></fo:basic-link></fo:block>
+   <fo:block margin-left="0.39cm" space-after="0.18cm" text-align-last="justify" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri" orphans="2" widows="2"><fo:basic-link internal-destination="_Toc119551991" font-size="11pt" font-family="Calibri"><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">6.</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length="14.8pt"/><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">Cadences Kanban</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length.maximum="100%" leader-pattern="dots"/><fo:page-number-citation font-size="11pt" font-family="Garamond" ref-id="_Toc119551991"/></fo:basic-link></fo:block>
+   <fo:block space-after="0.18cm" text-align-last="justify" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri" orphans="2" widows="2"><fo:basic-link internal-destination="_Toc119551992" font-size="11pt" font-family="Calibri"><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" font-weight="bold" text-decoration="underline">III.</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length="14.5pt"/><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" font-weight="bold" text-decoration="underline">Avantages et inco_vénients de Kanban</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length.maximum="100%" leader-pattern="dots"/><fo:page-number-citation font-size="11pt" font-family="Garamond" ref-id="_Toc119551992"/></fo:basic-link></fo:block>
+   <fo:block margin-left="0.39cm" space-after="0.18cm" text-align-last="justify" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri" orphans="2" widows="2"><fo:basic-link internal-destination="_Toc119551993" font-size="11pt" font-family="Calibri"><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">1.</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length="14.8pt"/><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">Avantages</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length.maximum="100%" leader-pattern="dots"/><fo:page-number-citation font-size="11pt" font-family="Garamond" ref-id="_Toc119551993"/></fo:basic-link></fo:block>
+   <fo:block margin-left="0.39cm" space-after="0.18cm" text-align-last="justify" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri" orphans="2" widows="2"><fo:basic-link internal-destination="_Toc119551994" font-size="11pt" font-family="Calibri"><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">2.</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length="14.8pt"/><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">Inconvénients de Kan_an</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length.maximum="100%" leader-pattern="dots"/><fo:page-number-citation font-size="11pt" font-family="Garamond" ref-id="_Toc119551994"/></fo:basic-link></fo:block>
+   <fo:block space-after="0.18cm" text-align-last="justify" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri" orphans="2" widows="2"><fo:basic-link internal-destination="_Toc119551995" font-size="11pt" font-family="Calibri"><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" font-weight="bold" text-decoration="underline">IV_</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length="14.5pt"/><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" font-weight="bold" text-decoration="underline">EXEMPLE D’APPLICATION DE LA METHODE KANBAN</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length.maximum="100%" leader-pattern="dots"/><fo:page-number-citation font-size="11pt" font-family="Garamond" ref-id="_Toc119551995"/></fo:basic-link></fo:block>
+   <fo:block margin-left="0.39cm" space-after="0.18cm" text-align-last="justify" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri" orphans="2" widows="2"><fo:basic-link internal-destination="_Toc119551996" font-size="11pt" font-family="Calibri"><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">1.</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length="14.8pt"/><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">La méthode Kanban en gestio_ des stocks</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length.maximum="100%" leader-pattern="dots"/><fo:page-number-citation font-size="11pt" font-family="Garamond" ref-id="_Toc119551996"/></fo:basic-link></fo:block>
+   <fo:block margin-left="0.39cm" space-after="0.18cm" text-align-last="justify" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri" orphans="2" widows="2"><fo:basic-link internal-destination="_Toc119551997" font-size="11pt" font-family="Calibri"><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">2.</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length="14.8pt"/><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">La _éthode Kanban en gestion de projets informatiques et marketing</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length.maximum="100%" leader-pattern="dots"/><fo:page-number-citation font-size="11pt" font-family="Garamond" ref-id="_Toc119551997"/></fo:basic-link></fo:block>
+   <fo:block space-after="0.18cm" text-align-last="justify" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri" orphans="2" widows="2"><fo:basic-link internal-destination="_Toc119551998" font-size="11pt" font-family="Calibri"><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" font-weight="bold" text-decoration="underline">V.</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length="11.700000000000001pt"/><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" font-weight="bold" text-decoration="underline">COMPARAISON AVEC D’AUTRES METHODES</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length.maximum="100%" leader-pattern="dots"/><fo:page-number-citation font-size="11pt" font-family="Garamond" ref-id="_Toc119551998"/></fo:basic-link></fo:block>
+   <fo:block margin-left="0.39cm" space-after="0.18cm" text-align-last="justify" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri" orphans="2" widows="2"><fo:basic-link internal-destination="_Toc119551999" font-size="11pt" font-family="Calibri"><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">1.</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length="14.8pt"/><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">Présentation des différentes méthodologies</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length.maximum="100%" leader-pattern="dots"/><fo:page-number-citation font-size="11pt" font-family="Garamond" ref-id="_Toc119551999"/></fo:basic-link></fo:block>
+   <fo:block margin-left="0.78cm" space-after="0.18cm" text-align-last="justify" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri" orphans="2" widows="2"><fo:basic-link internal-destination="_Toc119552000" font-size="11pt" font-family="Calibri"><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">1.1_</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length="14.5pt"/><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">Les mét_odes traditionnelles</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length.maximum="100%" leader-pattern="dots"/><fo:page-number-citation font-size="11pt" font-family="Garamond" ref-id="_Toc119552000"/></fo:basic-link></fo:block>
+   <fo:block margin-left="0.78cm" space-after="0.18cm" text-align-last="justify" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri" orphans="2" widows="2"><fo:basic-link internal-destination="_Toc119552001" font-size="11pt" font-family="Calibri"><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">1.2.</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length="18.6pt"/><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">Les méthodes Agi_e</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length.maximum="100%" leader-pattern="dots"/><fo:page-number-citation font-size="11pt" font-family="Garamond" ref-id="_Toc119552001"/></fo:basic-link></fo:block>
+   <fo:block margin-left="0.78cm" space-after="0.18cm" text-align-last="justify" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri" orphans="2" widows="2"><fo:basic-link internal-destination="_Toc119552002" font-size="11pt" font-family="Calibri"><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">1.3.</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length="18.6pt"/><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">La méthode adaptative</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length.maximum="100%" leader-pattern="dots"/><fo:page-number-citation font-size="11pt" font-family="Garamond" ref-id="_Toc119552002"/></fo:basic-link></fo:block>
+   <fo:block margin-left="0.78cm" space-after="0.18cm" text-align-last="justify" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri" orphans="2" widows="2"><fo:basic-link internal-destination="_Toc119552003" font-size="11pt" font-family="Calibri"><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">1.4.</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length="18.6pt"/><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">La méthode du chemin crit_que</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length.maximum="100%" leader-pattern="dots"/><fo:page-number-citation font-size="11pt" font-family="Garamond" ref-id="_Toc119552003"/></fo:basic-link></fo:block>
+   <fo:block margin-left="0.78cm" space-after="0.18cm" text-align-last="justify" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri" orphans="2" widows="2"><fo:basic-link internal-destination="_Toc119552004" font-size="11pt" font-family="Calibri"><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">1.5.</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length="18.6pt"/><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">_a méthode PERT</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length.maximum="100%" leader-pattern="dots"/><fo:page-number-citation font-size="11pt" font-family="Garamond" ref-id="_Toc119552004"/></fo:basic-link></fo:block>
+   <fo:block margin-left="0.78cm" space-after="0.18cm" text-align-last="justify" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri" orphans="2" widows="2"><fo:basic-link internal-destination="_Toc119552005" font-size="11pt" font-family="Calibri"><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">1.6.</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length="18.6pt"/><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">La méthode PRINCE2 (PRojects IN Controlled Environments, version 2)</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length.maximum="100%" leader-pattern="dots"/><fo:page-number-citation font-size="11pt" font-family="Garamond" ref-id="_Toc119552005"/></fo:basic-link></fo:block>
+   <fo:block margin-left="0.78cm" space-after="0.18cm" text-align-last="justify" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri" orphans="2" widows="2"><fo:basic-link internal-destination="_Toc119552006" font-size="11pt" font-family="Calibri"><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">1.7.</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length="18.6pt"/><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">La méthode du Lean Managem_nt</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length.maximum="100%" leader-pattern="dots"/><fo:page-number-citation font-size="11pt" font-family="Garamond" ref-id="_Toc119552006"/></fo:basic-link></fo:block>
+   <fo:block margin-left="0.39cm" space-after="0.18cm" text-align-last="justify" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri" orphans="2" widows="2"><fo:basic-link internal-destination="_Toc119552007" font-size="11pt" font-family="Calibri"><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">2.</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length="14.8pt"/><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">Tableau de comparaison des méthode_ Agiles</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length.maximum="100%" leader-pattern="dots"/><fo:page-number-citation font-size="11pt" font-family="Garamond" ref-id="_Toc119552007"/></fo:basic-link></fo:block>
+   <fo:block space-after="0.18cm" text-align-last="justify" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri" orphans="2" widows="2"><fo:basic-link internal-destination="_Toc119552008" font-size="11pt" font-family="Calibri"><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" font-weight="bold" text-decoration="underline">VI.</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length="17.55pt"/><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" font-weight="bold" text-decoration="underline">Logiciel Kanban</fo:inline><fo:inline font-size="11pt" font-family="Times New Roman" color="#0000ff" font-weight="bold" text-decoration="underline"> </fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length.maximum="100%" leader-pattern="dots"/><fo:page-number-citation font-size="11pt" font-family="Garamond" ref-id="_Toc119552008"/></fo:basic-link></fo:block>
+   <fo:block margin-left="0.39cm" space-after="0.18cm" text-align-last="justify" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri" orphans="2" widows="2"><fo:basic-link internal-destination="_Toc119552009" font-size="11pt" font-family="Calibri"><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">1.</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length="14.8pt"/><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">G_ide détaillé pour choisir le bon outil Kanban</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length.maximum="100%" leader-pattern="dots"/><fo:page-number-citation font-size="11pt" font-family="Garamond" ref-id="_Toc119552009"/></fo:basic-link></fo:block>
+   <fo:block margin-left="0.39cm" space-after="0.18cm" text-align-last="justify" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri" orphans="2" widows="2"><fo:basic-link internal-destination="_Toc119552010" font-size="11pt" font-family="Calibri"><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">2.</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length="14.8pt"/><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">Certaines des meilleures sol_tions logicielles Kanban</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length.maximum="100%" leader-pattern="dots"/><fo:page-number-citation font-size="11pt" font-family="Garamond" ref-id="_Toc119552010"/></fo:basic-link></fo:block>
+   <fo:block margin-left="0.78cm" space-after="0.18cm" text-align-last="justify" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri" orphans="2" widows="2"><fo:basic-link internal-destination="_Toc119552011" font-size="11pt" font-family="Calibri"><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">2.1.</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length="18.6pt"/><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">Kanbanize</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length.maximum="100%" leader-pattern="dots"/><fo:page-number-citation font-size="11pt" font-family="Garamond" ref-id="_Toc119552011"/></fo:basic-link></fo:block>
+   <fo:block margin-left="0.78cm" space-after="0.18cm" text-align-last="justify" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri" orphans="2" widows="2"><fo:basic-link internal-destination="_Toc119552012" font-size="11pt" font-family="Calibri"><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">2.2.</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length="18.6pt"/><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">Jira</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length.maximum="100%" leader-pattern="dots"/><fo:page-number-citation font-size="11pt" font-family="Garamond" ref-id="_Toc119552012"/></fo:basic-link></fo:block>
+   <fo:block margin-left="0.78cm" space-after="0.18cm" text-align-last="justify" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri" orphans="2" widows="2"><fo:basic-link internal-destination="_Toc119552013" font-size="11pt" font-family="Calibri"><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">2.3.</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length="18.6pt"/><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">ClickUp</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length.maximum="100%" leader-pattern="dots"/><fo:page-number-citation font-size="11pt" font-family="Garamond" ref-id="_Toc119552013"/></fo:basic-link></fo:block>
+   <fo:block margin-left="0.78cm" space-after="0.18cm" text-align-last="justify" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri" orphans="2" widows="2"><fo:basic-link internal-destination="_Toc119552014" font-size="11pt" font-family="Calibri"><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">2.4.</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length="18.6pt"/><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">Asana</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length.maximum="100%" leader-pattern="dots"/><fo:page-number-citation font-size="11pt" font-family="Garamond" ref-id="_Toc119552014"/></fo:basic-link></fo:block>
+   <fo:block margin-left="0.78cm" space-after="0.18cm" text-align-last="justify" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri" orphans="2" widows="2"><fo:basic-link internal-destination="_Toc119552015" font-size="11pt" font-family="Calibri"><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">2.5.</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length="18.6pt"/><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">Trello</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length.maximum="100%" leader-pattern="dots"/><fo:page-number-citation font-size="11pt" font-family="Garamond" ref-id="_Toc119552015"/></fo:basic-link></fo:block>
+   <fo:block margin-left="0.78cm" space-after="0.18cm" text-align-last="justify" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri" orphans="2" widows="2"><fo:basic-link internal-destination="_Toc119552016" font-size="11pt" font-family="Calibri"><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">2.6.</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length="18.6pt"/><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">Smart_heet</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length.maximum="100%" leader-pattern="dots"/><fo:page-number-citation font-size="11pt" font-family="Garamond" ref-id="_Toc119552016"/></fo:basic-link></fo:block>
+   <fo:block margin-left="0.78cm" space-after="0.18cm" text-align-last="justify" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri" orphans="2" widows="2"><fo:basic-link internal-destination="_Toc119552017" font-size="11pt" font-family="Calibri"><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">2.7.</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length="18.6pt"/><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">P_oofHub</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length.maximum="100%" leader-pattern="dots"/><fo:page-number-citation font-size="11pt" font-family="Garamond" ref-id="_Toc119552017"/></fo:basic-link></fo:block>
+   <fo:block margin-left="0.78cm" space-after="0.18cm" text-align-last="justify" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri" orphans="2" widows="2"><fo:basic-link internal-destination="_Toc119552018" font-size="11pt" font-family="Calibri"><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">2.8.</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length="18.6pt"/><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">Azure DevOps</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length.maximum="100%" leader-pattern="dots"/><fo:page-number-citation font-size="11pt" font-family="Garamond" ref-id="_Toc119552018"/></fo:basic-link></fo:block>
+   <fo:block margin-left="0.78cm" space-after="0.18cm" text-align-last="justify" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri" orphans="2" widows="2"><fo:basic-link internal-destination="_Toc119552019" font-size="11pt" font-family="Calibri"><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">2.9.</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length="18.6pt"/><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">Flow-e</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length.maximum="100%" leader-pattern="dots"/><fo:page-number-citation font-size="11pt" font-family="Garamond" ref-id="_Toc119552019"/></fo:basic-link></fo:block>
+   <fo:block margin-left="0.39cm" space-after="0.18cm" text-align-last="justify" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri" orphans="2" widows="2"><fo:basic-link internal-destination="_Toc119552020" font-size="11pt" font-family="Calibri"><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">3.</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length="14.8pt"/><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" text-decoration="underline">L_s avantages d’un logiciel Kanban en mati_re de gestion de projet</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length.maximum="100%" leader-pattern="dots"/><fo:page-number-citation font-size="11pt" font-family="Garamond" ref-id="_Toc119552020"/></fo:basic-link></fo:block>
+   <fo:block space-after="0.18cm" text-align-last="justify" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri" orphans="2" widows="2"><fo:basic-link internal-destination="_Toc119552021" font-size="11pt" font-family="Calibri"><fo:inline font-size="11pt" font-family="Garamond" color="#0000ff" font-weight="bold" text-decoration="underline">Conclusion</fo:inline><fo:leader font-size="11pt" font-family="Garamond" leader-length.maximum="100%" leader-pattern="dots"/><fo:page-number-citation font-size="11pt" font-family="Garamond" ref-id="_Toc119552021"/></fo:basic-link></fo:block>
+   <fo:block white-space-collapse="false" white-space-treatment="preserve" space-after="0.28cm" text-align-last="justify" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri"> </fo:block>
+   <fo:block white-space-collapse="false" margin-left="1.27cm" white-space-treatment="preserve" keep-with-next.within-page="always" keep-together.within-page="always" font-size="13.5pt" space-before="0.42cm" line-height="13.5pt" language="fr" font-family="Garamond"> </fo:block>
+   <fo:block white-space-collapse="false" margin-left="1.27cm" white-space-treatment="preserve" keep-with-next.within-page="always" keep-together.within-page="always" font-size="13.5pt" space-before="0.42cm" line-height="13.5pt" language="fr" font-family="Garamond"> </fo:block>
+   <fo:block white-space-collapse="false" margin-left="1.27cm" white-space-treatment="preserve" keep-with-next.within-page="always" keep-together.within-page="always" font-size="13.5pt" space-before="0.42cm" line-height="13.5pt" language="fr" font-family="Garamond"> </fo:block>
+   <fo:block white-space-collapse="false" margin-left="1.27cm" white-space-treatment="preserve" keep-with-next.within-page="always" keep-together.within-page="always" font-size="13.5pt" space-before="0.42cm" line-height="13.5pt" language="fr" font-family="Garamond"> </fo:block>
+   <fo:block white-space-collapse="false" margin-left="1.27cm" white-space-treatment="preserve" keep-with-next.within-page="always" keep-together.within-page="always" font-size="13.5pt" space-before="0.42cm" line-height="13.5pt" language="fr" font-family="Garamond"> </fo:block>
+   <fo:block white-space-collapse="false" margin-left="1.27cm" white-space-treatment="preserve" keep-with-next.within-page="always" keep-together.within-page="always" font-size="13.5pt" space-before="0.42cm" line-height="13.5pt" language="fr" font-family="Garamond"> </fo:block>
+   <fo:block white-space-collapse="false" margin-left="1.27cm" white-space-treatment="preserve" keep-with-next.within-page="always" keep-together.within-page="always" font-size="13.5pt" space-before="0.42cm" line-height="13.5pt" language="fr" font-family="Garamond"> </fo:block>
+   <fo:block white-space-collapse="false" margin-left="1.27cm" white-space-treatment="preserve" keep-with-next.within-page="always" keep-together.within-page="always" font-size="13.5pt" space-before="0.42cm" line-height="13.5pt" language="fr" font-family="Garamond"> </fo:block>
+   <fo:block white-space-collapse="false" margin-left="1.27cm" white-space-treatment="preserve" keep-with-next.within-page="always" keep-together.within-page="always" font-size="13.5pt" space-before="0.42cm" line-height="13.5pt" language="fr" font-family="Garamond"> </fo:block>
+   <fo:block white-space-collapse="false" margin-left="1.27cm" white-space-treatment="preserve" keep-with-next.within-page="always" keep-together.within-page="always" font-size="13.5pt" space-before="0.42cm" line-height="13.5pt" language="fr" font-family="Garamond"> </fo:block>
+   <fo:block white-space-collapse="false" margin-left="1.27cm" white-space-treatment="preserve" keep-with-next.within-page="always" keep-together.within-page="always" font-size="13.5pt" space-before="0.42cm" line-height="13.5pt" language="fr" font-family="Garamond"> </fo:block>
+   <fo:block white-space-collapse="false" margin-left="1.27cm" white-space-treatment="preserve" keep-with-next.within-page="always" keep-together.within-page="always" font-size="13.5pt" space-before="0.42cm" line-height="13.5pt" language="fr" font-family="Garamond"> </fo:block>
+   <fo:block white-space-collapse="false" margin-left="1.27cm" white-space-treatment="preserve" keep-with-next.within-page="always" keep-together.within-page="always" font-size="13.5pt" space-before="0.42cm" line-height="13.5pt" language="fr" font-family="Garamond"> </fo:block>
+   <fo:block white-space-collapse="false" margin-left="1.27cm" white-space-treatment="preserve" keep-with-next.within-page="always" keep-together.within-page="always" font-size="13.5pt" space-before="0.42cm" line-height="13.5pt" language="fr" font-family="Garamond"> </fo:block>
+   <fo:block white-space-collapse="false" white-space-treatment="preserve" space-after="0.28cm" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri"> </fo:block>
+   <fo:block white-space-collapse="false" white-space-treatment="preserve" space-after="0.28cm" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri"> </fo:block>
+   <fo:block white-space-collapse="false" white-space-treatment="preserve" space-after="0.28cm" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri"> </fo:block>
+   <fo:block white-space-collapse="false" white-space-treatment="preserve" space-after="0.28cm" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri"> </fo:block>
+   <fo:block white-space-collapse="false" white-space-treatment="preserve" space-after="0.28cm" font-size="11pt" line-height="11pt" language="fr" font-family="Calibri"> </fo:block>
+   <fo:block margin-left="1.27cm" keep-with-next.within-page="always" keep-together.within-page="always" font-size="13.5pt" space-before="0.42cm" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="center"><fo:inline id="_Toc119551975"/><fo:inline color="#7030a0" font-weight="bold">Intro_uction</fo:inline><fo:inline id="_Toc119551975:end"/></fo:block>
+   <fo:block space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2"><fo:inline id="_Hlk115219794:end"/>En tant que futurs ingén_eurs, nous allons certainement gérer dans l’ave_ir des projets et il est donc nécessaire pour nous de maitriser des techniques de gestion des projets qui vont nous aider à cet effet. La gestion des projets est née avec les méthodes dites traditionnelles. Ces méthodes utilisaient le principe de projet non itératif. En effet, avec ces méthodologies, le client fournit un cahier de charge qui détaille le projet et le prestataire après quelques échanges avec le client va réaliser le projet et le livre au client à la toute fin. Mais la difficulté c'est que si entre temps le besoin du client change pendant qu'il réalise déjà la tâche c'est compliqué de faire machine arrière (surtout dans les chaines de production). C'est donc pour palier à ce problème rencontre dans les chaines de production qu'une nouvelle famille de méthode va voir le jour : il s'_git en effet des méthodes dites agiles, qui utilise le principe de projet itératif et ainsi, le projet sera construit au fur et à mesure avec des livrables intermédiaires, ce qui facilite le suivi du projet et aussi l'apport ou l'ajout des modifications. L'une de ces méthodes agiles est la méthode kanban qui va faire l'objet de notre travail par la suite.</fo:block>
+   <fo:block white-space-collapse="false" white-space-treatment="preserve" space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond"> </fo:block>
+   <fo:block white-space-collapse="false" margin-left="1.25cm" white-space-treatment="preserve" space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond"> </fo:block>
+
+
+   <fo:list-block provisional-distance-between-starts="0.64cm" margin-left="0.64cm" margin-right="0cm">
+    <fo:list-item keep-together.within-page="always" keep-with-next.within-page="always" space-before="12pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="13.5pt" font-family="Garamond"><fo:inline color="#7030a0" font-weight="bold">I.</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="center"><fo:inline id="_Toc119551976"/><fo:inline color="#7030a0" font-weight="bold">Hi_torique de la méthode kanban :</fo:inline><fo:inline id="_Toc119551976:end"/></fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+    <fo:list-item space-after="5pt" space-before="5pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="13.5pt" font-family="Garamond"><fo:inline color="#7030a0" font-weight="bold">1.</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="center"><fo:inline id="_Toc119551977"/><fo:inline color="#7030a0" font-weight="bold">D’_ù vient le nom kanban ?</fo:inline><fo:inline id="_Toc119551977:end"/></fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+   </fo:list-block>
+   <fo:block space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Dans les années 1603, on assiste à la _in de la bataille de Sekigahara l’âge d'_r des samouraïs au japon. Petit à petit le pays se reconstruire et au fur et à mesure que l'économie du pays prospérait, les rues des villes japonaises devenaient bondées de magasins et d'entreprises locales se battant pour la sensibilisation et l'attention des clients. C'est dans ces rues que le terme « Kanban » est né. Kanban est composé de deux mots kan qui signifie tableau et ban qui signifie signe. En effet les entreprises et les magasins vont mettre sur pieds des tableaux de signes ou kanban pour faire connaitre leurs produits. La particularité de ces panneaux kanban étaient qu’ils communiquaient leurs contenus de façon claire et précise.</fo:block>
+   <fo:list-block provisional-distance-between-starts="0.64cm" margin-left="0.64cm" margin-right="0cm">
+    <fo:list-item space-after="5pt" space-before="5pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="13.5pt" font-family="Garamond"><fo:inline color="#7030a0" font-weight="bold">2.</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="center"><fo:inline id="_Toc119551978"/><fo:inline color="#7030a0" font-weight="bold">Origine de la méthode kanban :</fo:inline><fo:inline id="_Toc119551978:end"/></fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+   </fo:list-block>
+   <fo:block white-space-collapse="false" white-space-treatment="preserve" space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond"> </fo:block>
+   <fo:block space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Dans l_s années 1940 pendant la deuxième guerre mondiale, Toyota était loin d’être le _éant de l’_ndustrie que nous connaissons aujourd’hui. L’indus_rie automobile japonaise était en stagnation. Toyota accusait une perte ferme et ne pouvait rivaliser avec aucun des constructeurs automobiles américains et était en si mauvais état qu'ils n'étaient pas en mesure d'embaucher de nouveaux employés. Mais le PDG de Toyota, _eiichiro Toyota, avait pour mission de changer cela. Il s'est rendu compte que la différence de productivité décuplée entre les constructeurs automobiles américains et Toyota ne peut s'expliquer uniquement par le manque d'équipement - la question était plus complexe que cela. Il va alors lancer l'entreprise dans une quête pour égaliser la productivité avec les constructeurs automobiles américains en trois ans. Même si un objectif aussi ambitieux était difficilement atteignable. Ce changement de culture d'entreprise a ouvert la voie à <fo:inline font-weight="bold">Taiichi Ōno</fo:inline> , un je_ne ingénieur industriel qui vient d'être transféré chez Toyota Motor Company en 1943.</fo:block>
+   <fo:block space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2"><fo:inline background-color="white">Taiichi Ōno avait un caractère strict mais juste e_ a rapidement gravi les échelons chez Toyota. En 1949, _l devient directeur de l'atelier d'usinage, ce qui lui permet de commencer à expérimenter de nouveaux outils et principes d'organisation du travail. En 1954, il est pro_u au poste de directeur.</fo:inline></fo:block>
+   <fo:block space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2"><fo:inline background-color="white">Il va identifier 7 déchets _ans le système de production de Toyota de cette année-là et l’un des déchets majeu_s est la surproduction. La seule solution à ce problème était de produire ce qui est nécessaire. </fo:inline><fo:inline color="#222222" background-color="white">Il fallait maintenir les st_cks au minimum tout en assurant un flux de travail fluide et élevé tout au long du processus. Mais cette approche avait _es problèmes. Comment signaler qu'un nouveau produ_t est requis ? Comment pro_ager ce signal vers la chaîne de production et éventuellement vers les fournisseurs de matières premières ?</fo:inline></fo:block>
+
+   <fo:block space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2"><fo:inline background-color="white">_no a visité les États-Unis en 1956, et il a été impressionné par la façon dont les chaînes de supermarchés ont pu garder les étagères approvisionnées avec juste la bonne quantité de chaque produit. Après _on retour au Japon, il a commencé à utiliser des cartes papier pour signaler et suivre la demande dans son usine, et a nommé le nouveau système "Kanban".</fo:inline></fo:block>
+   <fo:block space-after="0.13cm" font-size="13.5pt" space-before="0.42cm" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2"><fo:inline color="#222222">Un _el système a réduit les stocks, amélioré le débit et fourni une grande visibilité sur le processus. So_ utilisation s'est rapidement propagée à l'ensemble de la Division Usinage. En 1963, un plan a été élaboré pour le propager à l'ensemble de l'entreprise, et peu de temps après, il a été adopté dans presque tous les processus chez Toyota.</fo:inline></fo:block>
+   <fo:block space-after="0.13cm" font-size="13.5pt" space-before="0.42cm" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2"><fo:inline color="#222222">La puissance de l'appli_ation Kanban était telle que Toyota est passée d'un fonctionnement à perte au concurrent mondial qu'elle est aujourd'hui. Taiichi Ō_o a gravi tous les échelons supérieurs de l'en_reprise et est devenu vice-président exécutif en 1975. Son travail a no_ seulement donné naissance au nouvea_ sens de « _anban », mais a également jeté les bases des techniques de gestion modernes, connues sous le nom de Toyota Production System.</fo:inline></fo:block>
+   <fo:block space-after="0.13cm" font-size="13.5pt" space-before="0.42cm" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2"><fo:inline color="#222222">Alors _ue le système de production Toyota gagnait en popularité et que la rumeur se répandait à son sujet, les chefs de projet de différents types d'industries ont essayé d'appliquer ses enseignements de base à leur travail.</fo:inline></fo:block>
+   <fo:block space-after="0.13cm" font-size="13.5pt" space-before="0.42cm" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2"><fo:inline color="#222222">La percée la plus importante est v_nue de l'industrie du logiciel.</fo:inline></fo:block>
+   <fo:block space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2"><fo:inline color="#222222">Mais la méthode Kanban telle qu'on l_ connaît aujourd'hui date de 2007. C'est le résultat de plusieurs essaies d'expériences avec la collaboration d_s personnalités de la communauté Lean et Agile telles que David Anderson, Dan Vacanti, Darren Davis, corey ladas, doninica DeGrandis.</fo:inline></fo:block>
+   <fo:block white-space-collapse="false" white-space-treatment="preserve" space-after="0.13cm" font-size="13.5pt" space-before="0.18cm" line-height="13.5pt" language="fr" font-family="Garamond"> </fo:block>
+   <fo:block white-space-collapse="false" white-space-treatment="preserve" space-after="0.13cm" font-size="13.5pt" space-before="0.18cm" line-height="13.5pt" language="fr" font-family="Garamond"> </fo:block>
+   <fo:list-block provisional-distance-between-starts="0.64cm" margin-left="0.64cm" margin-right="0cm">
+    <fo:list-item keep-together.within-page="always" keep-with-next.within-page="always" space-before="12pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="13.5pt" font-family="Garamond"><fo:inline color="#7030a0" font-weight="bold">II.</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="center"><fo:inline id="_Toc119551979"/><fo:inline color="#7030a0" font-weight="bold">Pri_cipes Kanban</fo:inline><fo:inline id="_Toc119551979:end"/></fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+    <fo:list-item space-after="5pt" space-before="5pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="13.5pt" font-family="Garamond"><fo:inline color="#7030a0" font-weight="bold">1.</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="center"><fo:inline id="_Toc119551980"/><fo:inline color="#7030a0" font-weight="bold">Principes de ge_tion du changement</fo:inline><fo:inline id="_Toc119551980:end"/></fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+   </fo:list-block>
+   <fo:block space-after="0.13cm" font-size="13.5pt" space-before="0.18cm" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Ces principes de gestion du changement sont communs à toutes les implémentations Kanban :</fo:block>
+   <fo:list-block provisional-distance-between-starts="0.64cm" margin-left="0.64cm" margin-right="0cm">
+    <fo:list-item space-after="3.75pt" space-before="5pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="13.5pt" font-family="Symbol"><fo:inline>·</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Commen_ez par ce que vous faites actuellement</fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+    <fo:list-item space-after="3.75pt" space-before="5pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="13.5pt" font-family="Symbol"><fo:inline>·</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Accepter de poursuivre l’_mélioration grâce à un changement évolutif</fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+    <fo:list-item space-after="3.75pt" space-before="5pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="13.5pt" font-family="Symbol"><fo:inline>·</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Encourager les actes de lead_rship à tous les niveaux</fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+   </fo:list-block>
+
+
+   <fo:block space-after="0.13cm" font-size="13.5pt" space-before="0.18cm" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Kanban n’est pas une transformation « Big Bang » qui permet de passer d’un état présen_ à un état futur. D’ailleurs, l’_istoire nous a appris que ce genre de transformation fonctionne rarement. Kanban utilise plutôt une approche évolutive du changement. Elle s’appuie sur la _açon de travailler en place et cherche à l’améliorer en _tilisant de nombreuses formes de feedback (rétroaction) et de collaboration. La méthode Kanban engendre un changement évolutif.</fo:block>
+
+
+   <fo:block space-after="0.13cm" font-size="13.5pt" space-before="0.18cm" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">En effet, les personnes t_availlant avec le tableau Kanban acquièrent des connaissances et prennent des mesures de leadership dans le but d’améliorer continue_lement leur façon de travailler. Ces actes de leadership peuvent ne pas être considérés comme du leadership traditionnel. Il peut s’agir de peti_es observations et suggestions d’amélioration venant d’individus n’ayant pas de rôle de leadership organisationnel</fo:block>
+
+
+   <fo:list-block provisional-distance-between-starts="0.64cm" margin-left="0.64cm" margin-right="0cm">
+    <fo:list-item space-after="5pt" space-before="5pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="13.5pt" font-family="Garamond"><fo:inline color="#7030a0" font-weight="bold">2.</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="center"><fo:inline id="_Toc119551981"/><fo:inline color="#7030a0" font-weight="bold">Principes de prestation de services</fo:inline><fo:inline id="_Toc119551981:end"/></fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+   </fo:list-block>
+
+
+   <fo:block space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Kanban vous encourage à a_opter une approche orientée sur les services pour mieux comprendre votre organisation et la façon dont le travail progresse. Ce paradigme organisationnel axé sur les services est basé sur l’idée que votre orga_isation est une entité organique constituée d’un _éseau de plusieurs services, qui vivent, respirent, évoluent.</fo:block>
+
+   <fo:block space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Les dema_des des clients transitent par ce réseau de services. Si nous voulons améliorer la prestation de services, les améliorations doivent être guidées par un ensemble de principes. Ces principes peuvent ne pas être utilisés dès le début par les organisations. Dans leur cultur_, elles peuvent ne pas avoir développé une mentalité dirigée vers le service à la clientèle.</fo:block>
+
+
+   <fo:block space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Les principes axés sur le service sont :</fo:block>
+
+
+   <fo:list-block provisional-distance-between-starts="0.64cm" margin-left="0.64cm" margin-right="0cm">
+    <fo:list-item space-after="8pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="13.5pt" font-family="Symbol"><fo:inline>·</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Compren_re et se concentrer sur les besoins et les attentes des clients</fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+    <fo:list-item space-after="8pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="13.5pt" font-family="Symbol"><fo:inline>·</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Gér_r le travail et laisser les gens s’a_toorganiser pour l’effectuer</fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+    <fo:list-item space-after="8pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="13.5pt" font-family="Symbol"><fo:inline>·</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Contrôler régulièrement le réseau et _es politiques de services afin d’améliorer les ré_ultats</fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+    <fo:list-item space-after="5pt" space-before="5pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="13.5pt" font-family="Garamond"><fo:inline color="#7030a0" font-weight="bold">3.</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="center"><fo:inline id="_Toc119551982"/><fo:inline color="#7030a0" font-weight="bold">Pratiques générales Kanban</fo:inline><fo:inline id="_Toc119551982:end"/></fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+   </fo:list-block>
+
+
+   <fo:block space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Comme mentionné précédemment, l’étendue e_ l’intensité de l’application des _ratiques Kanban peuvent varier considérablement.</fo:block>
+
+
+   <fo:block space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Da_s cette section, nous allons décrire les six pratiques générales de Kanban.</fo:block>
+
+   
+   <fo:list-block provisional-distance-between-starts="1.27cm" margin-left="0.64cm" margin-right="0cm">
+    <fo:list-item space-after="5pt" space-before="5pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="13.5pt" font-family="Garamond"><fo:inline color="#7030a0" font-weight="bold">3.1.</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="center"><fo:inline id="_Toc119551983"/><fo:inline color="#7030a0" font-weight="bold">Visualise_</fo:inline><fo:inline id="_Toc119551983:end"/></fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+   </fo:list-block>
+   <fo:block space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Une bonne visualisation est la clé d’une collaborati_n efficace et permet d’identifi_r les opportunités d’amélioration.</fo:block>
+   <fo:block space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Bien souvent dans l’or_anisation, le travail est caché. La visualisation de ce travail et de son déroulement améliore considérablement la transparence. D’un point de vue évo_utif, le sens de la vue chez l’humain est acqui_ depuis très longtemps.</fo:block>
+   <fo:block space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Il nous p_rmet de capter et de traiter une grande quantité d’informations en peu de temps. En outre, la visualisation encourage la coopération, puisque toutes les personnes impliquées ont littéralement accès à la même image. La visualisation sera abordée de manière plus détaillée dans la section sur les tableaux Kanban.</fo:block>
+   <fo:list-block provisional-distance-between-starts="1.27cm" margin-left="0.64cm" margin-right="0cm">
+    <fo:list-item space-after="5pt" space-before="5pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="13.5pt" font-family="Garamond"><fo:inline color="#7030a0" font-weight="bold">3.2.</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="center"><fo:inline id="_Toc119551984"/><fo:inline color="#7030a0" font-weight="bold">Limiter les travaux en cours (WIP_</fo:inline><fo:inline id="_Toc119551984:end"/></fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+   </fo:list-block>
+   <fo:block space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Le travail en cours, aussi appelé le WIP (Work in Progress), indique le nomb_e d’éléments de travail en voie d’être complété, à un moment précis. Grâce à Kan_an, nous avons découvert que _es systèmes efficaces sont ceux qui se concentrent davantage sur le flux de tra_ail et moins sur l’utilisation _es travailleurs.</fo:block>
+   <fo:block space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Lorsque les r_ssources sont complètement utilisées, il n’y a pas de « relâchement » dans le systè_e, ce qui amène à un flux très faible, tout c_mme aux heures de grande affluence sur l’autoroute. Dans le trava_l de la connaissance, le changement de co_texte peut réduire considérablement l’efficacité des travailleurs.</fo:block>
+   <fo:block space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Dans Kanban, nous lim_tons le WIP pour équilibrer l’utilisation des res_ources et assurer la fluidité du travail. Plus _ard dans le texte, nous décrirons les limites WIP et leur util_sation dans un système à flux tiré.</fo:block>
+   <fo:block white-space-collapse="false" white-space-treatment="preserve" space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond"> </fo:block>
+   <fo:list-block provisional-distance-between-starts="1.27cm" margin-left="0.64cm" margin-right="0cm">
+    <fo:list-item space-after="5pt" space-before="5pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="13.5pt" font-family="Garamond"><fo:inline color="#7030a0" font-weight="bold">3.3.</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="center"><fo:inline id="_Toc119551985"/><fo:inline color="#7030a0" font-weight="bold">_érer le flux</fo:inline><fo:inline id="_Toc119551985:end"/></fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+   </fo:list-block>
+   <fo:block space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">L’_bjectif de la gestion du flux de travail est de terminer le travail de manière aussi fluide et prévisible que possible, tout en maintenant un rythme durable. Comme mentionné plus haut, limiter le travail en cours est un moyen clé pour aider à garantir un flux fluide et prévisible.</fo:block>
+   <fo:block space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">L_ suivi ou la mesure du flux de travail fournit des informations très utiles pour gérer les attentes des clients, faire des projections de livraison et s’améliorer. Nous en discute_ons plus en détail dans la section sur les métriques Kanban de base.</fo:block>
+   <fo:list-block provisional-distance-between-starts="1.27cm" margin-left="0.64cm" margin-right="0cm">
+    <fo:list-item space-after="5pt" space-before="5pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="13.5pt" font-family="Garamond"><fo:inline color="#7030a0" font-weight="bold">3.4.</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="center"><fo:inline id="_Toc119551986"/><fo:inline color="#7030a0" font-weight="bold">Rendre les politiques expli_ites</fo:inline><fo:inline id="_Toc119551986:end"/></fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+   </fo:list-block>
+   <fo:block space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Cha_ue jour, d’innombrables décisions liées _ l’organisation du travail sont _rises, que ce soit par des individus ou des groupes.</fo:block>
+   <fo:block space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Imaginez qu’une nouvelle employée commence dans votre secteur. Idéalement, des règles explicites lui permettraient de comprendre rapidement l’organisation du trava_l. Celles-ci incluent notamment :</fo:block>
+   <fo:list-block provisional-distance-between-starts="0.64cm" margin-left="0.77cm" margin-right="0cm">
+    <fo:list-item space-after="8pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="13.5pt" font-family="Symbol"><fo:inline>·</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Les règles régissant le réapprovisi_nnement du tableau (quand, combien, par qui) ;</fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+    <fo:list-item space-after="8pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="13.5pt" font-family="Symbol"><fo:inline>·</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">La définition du moment où une activité _e travail est terminée, et quand l’élém_nt de travail peut avancer (critères de validation « Pull ») ;</fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+    <fo:list-item space-after="8pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="13.5pt" font-family="Symbol"><fo:inline>·</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Les limites de tra_ail en cours (WIP) ;</fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+    <fo:list-item space-after="8pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="13.5pt" font-family="Symbol"><fo:inline>·</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Les règles de gestion des éléments d_ travail en différentes classes de service ;</fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+    <fo:list-item space-after="8pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="13.5pt" font-family="Symbol"><fo:inline>·</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Les horair_s et le contenu des réunions ;</fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+    <fo:list-item space-after="8pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="13.5pt" font-family="Symbol"><fo:inline>·</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Les autres pri_cipes et les accords de collaboration.</fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+   </fo:list-block>
+   <fo:block space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Toutes ce_ règles doivent être déterminées par toutes les parties prenantes impliquées dans le travail affiché sur le tableau. Cela inclut les clients, les partenaires et les employés responsables du travail. Les règles doivent figurer dans un endroit bien en vue, de préférence tout près du tableau. Un contrat d’_quipe est un bon moyen d’introduire les politiques.</fo:block>
+   <fo:block space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Comme to_s les autres éléments du système, il est nécessaire de les v_rifier et de les adapter régulièrement.</fo:block>
+   <fo:block space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Veuillez noter que les r_gles ne sont pas comme des inst_uctions de travail qui libèrent les gens du fardeau de la prise de décisions importantes. Au co_traire, elles doivent permettre l’auto-o_ganisation au sein du groupe de personnes exécutant un systèm_ Kanban.</fo:block>
+   <fo:block space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Les règles doivent être :</fo:block>
+   <fo:list-block provisional-distance-between-starts="0.64cm" margin-left="0.77cm" margin-right="0cm">
+    <fo:list-item space-after="8pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="13.5pt" font-family="Symbol"><fo:inline>·</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Peu nombreuses ;</fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+    <fo:list-item space-after="8pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="13.5pt" font-family="Symbol"><fo:inline>·</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Simples ;</fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+    <fo:list-item space-after="8pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="13.5pt" font-family="Symbol"><fo:inline>·</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Explicites ;</fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+    <fo:list-item space-after="8pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="13.5pt" font-family="Symbol"><fo:inline>·</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Visibles ;</fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+    <fo:list-item space-after="8pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="13.5pt" font-family="Symbol"><fo:inline>·</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Toujours a_pliquées ;</fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+    <fo:list-item space-after="8pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="13.5pt" font-family="Symbol"><fo:inline>·</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Facilement modifiables par ceux qui fournisse_t le service</fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+   </fo:list-block>
+   <fo:block white-space-collapse="false" white-space-treatment="preserve" space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond"> </fo:block>
+   <fo:list-block provisional-distance-between-starts="1.27cm" margin-left="0.64cm" margin-right="0cm">
+    <fo:list-item space-after="5pt" space-before="5pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="13.5pt" font-family="Garamond"><fo:inline color="#7030a0" font-weight="bold">3.5.</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="center"><fo:inline id="_Toc119551987"/><fo:inline color="#7030a0" font-weight="bold">Mettre en œuvre des boucles de ré_roaction (rétroaction)</fo:inline><fo:inline id="_Toc119551987:end"/></fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+   </fo:list-block>
+   <fo:block space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Des bo_cles de rétroaction sont nécessaires pour faire une livraison coordonnée et pour améliorer la prestation de votre service. Un ensemble fonctionnel de boucles de rétroaction, adaptées au contexte, renforce les capacités d’appren_issage de l’organisation et son évo_ution au moyen d’expériences structurée_.</fo:block>
+   <fo:block space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Par_i les moyens couramment utilisés pour les boucles de rétroaction dans les systèmes Kanban, on trouve le tableau, les mesures et une série de réunions et d’ex_mens réguliers appelés cadences.</fo:block>
+   <fo:list-block provisional-distance-between-starts="1.27cm" margin-left="0.64cm" margin-right="0cm">
+    <fo:list-item space-after="5pt" space-before="5pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="13.5pt" font-family="Garamond"><fo:inline color="#7030a0" font-weight="bold">3.6.</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="center"><fo:inline id="_Toc119551988"/><fo:inline color="#7030a0" font-weight="bold">S’_méliorer en collaborant, évoluer en expérimentant</fo:inline><fo:inline id="_Toc119551988:end"/></fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+   </fo:list-block>
+   <fo:block space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Revenons aux princip_s de gestion du changement, avec la méthode Kanban, nous « commençons par ce que vous faites en ce moment » et « convenons de poursuivre l’amélioration grâce à un changemen_ évolutif ».</fo:block>
+   <fo:block space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Kanban est une méthod_ de changement continu. Nous amenons ces changements de manière collaborative, à l’aide d’_xpériences, conçues à partir de modèles et basées sur la méthode scientifique. C’est là que les rétro_ctions et les métriques prennent toute leur importance et nous guident sur le chemin de l’évolution. Nous co_cevons des expériences sans échec. Cela signifie que si l’hypothè_e est correcte et l’expérience donne de bons résultats, nous poursuivons le changement ; mais qu’en cas de résul_ats critiques, nous pouvons facilement revenir à l’état _ntérieur.</fo:block>
+   <fo:block white-space-collapse="false" white-space-treatment="preserve" space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond"> </fo:block>
+   <fo:list-block provisional-distance-between-starts="0.64cm" margin-left="0.64cm" margin-right="0cm">
+    <fo:list-item space-after="5pt" space-before="5pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="13.5pt" font-family="Garamond"><fo:inline color="#7030a0" font-weight="bold">4.</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="center"><fo:inline id="_Toc119551989"/><fo:inline color="#7030a0" font-weight="bold">Tableaux Kanban</fo:inline><fo:inline id="_Toc119551989:end"/></fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+   </fo:list-block>
+   <fo:block space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">_es tableaux Kanban sont les outils de visualisation du système Kanban les plus connus. Ils ont comme point commun de faire circuler le travail à travers le tableau, de la gauche vers la droite : à gauche, les nouveaux éléments de travail entrent dans le tabl_au et lorsqu’ils s_rtent par la droite, cela signifie que l_ valeur est livrée aux clients.</fo:block>
+   <fo:block space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Da_s un système Kanban, il existe au moins un poi_t d’engagement et de livraison _isibles ainsi qu’une représentation de la quantité de t_avail autorisée (limites du travail en cours ou limites “WIP”).</fo:block>
+   <fo:block space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Les élém_nts de travail peuvent être de tailles et de types différents, des tâches aux besoins. Ils peuvent représenter les types __artefacts, les fonctionnalités de_ produits, les rubriques des projet_, ou encore les produits sur des tableaux de niveau supérieur. Par exem_le : les campagnes marketing _’une agence, les récits utilisateurs (“us_r stories”) des équipes de développement de logiciel_, les postes à pourvoir des Ressources humaines ou encore les produits d’un département de recherche et développement.</fo:block>
+   <fo:block space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">_es éléments de travail sont généralement affichés sur des cartons individuels (papier), comm_nément appelés cartes ou tickets.</fo:block>
+   <fo:block space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">La sé_ie d’activités qui permet _’exécution de ces éléments de travail se nomme flux de travail. Kanban est basé sur l’approche « Commencez là où vous êtes », de sorte que c’est le flux de travail réel (et non un_ image idéalisée du futur) qui est modélisé sur le tableau Kanban.</fo:block>
+   <fo:block space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Les d_fférentes étapes du flux de travail et les tampons sont affichés _ans des colonnes qui sont souvent utilisées pour les différents types de trav_ux ou de projets, dans le but de répartir la capac_té.</fo:block>
+   <fo:block space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Imaginez le travail d’un fournisseur de services de forma_ion interne dans une grande ent_eprise. Dans un premier temps, il va recueillir les idées et les bes_ins pour les nouveaux cours. En_uite, après un processus de sélection et d’ajustement, de nouveaux cours seront déve_oppés, testés, puis finalisés afin de pouvoir être utilis_s. L’image ci-dessous _Figure 1) montre une disposition possible et si_plifiée du tableau :</fo:block>
+   <fo:block line-height="13.5pt" language="fr" space-after="0.28cm" orphans="2" widows="2"><fo:inline><fo:external-graphic scaling="non-uniform" src="url(file:/C:/Users/menra/IdeaProjects/xmlParser1/images/img69311fe3.png)" width="15.081cm" content-width="15.081cm" content-height="7.276cm" height="7.276cm"/></fo:inline></fo:block>
+   <fo:block white-space-collapse="false" white-space-treatment="preserve" space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond"> </fo:block>
+   <fo:block space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2"><fo:inline font-style="italic">Fi_ure : fi_ure 1</fo:inline></fo:block>
+   <fo:block white-space-collapse="false" white-space-treatment="preserve" space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond"> </fo:block>
+   <fo:block space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Le flux de travail est modélisé sur le tableau. Des notes de différentes couleurs peuvent être utilisées, par exemple, pour représenter différents types de cours (formation en ligne ou en classe), ou différents groupes de clients_</fo:block>
+   <fo:block space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Le flux de travail et les risques qu’il comporte doivent être représentés de manière réaliste dans leur état réel actuel, plutôt que par une image idéalisée de l’avenir. Votre tableau _anban doit refléter votre flux de travail spécifique, qui va généralement au-delà de simples colonnes étiquetées « À faire</fo:block>
+   <fo:block space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">», « En cours »_ « Fait ». Les possibilités sont en fait très variées.</fo:block>
+   <fo:block space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Chaque _ystème Kanban, comme chaque tableau Kanban, est unique.</fo:block>
+   <fo:block space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2"><fo:inline color="#74468f" font-weight="bold">Limites de travail (« WIP limit ») </fo:inline><fo:inline color="#4e2e83" font-weight="bold">et flux _iré (« Pull »)</fo:inline></fo:block>
+   <fo:block space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">La limite du travail en cours (« WIP limit »), c’est-à- dire le nombre maximum d’éléments de travail autorisés simultan_ment, peut être définie de plusieurs façons. Elle peut se définir par état(s) de travail, par personne, par couloir, par type de travail, ou pour l’ensemble du système Kanban en place_ etc.</fo:block>
+   <fo:block space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Les l_mites WIP sont fréquemment représentées par un nombre dans un cercle, au-dessus de leurs colonnes respectives :</fo:block>
+   <fo:block line-height="13.5pt" language="fr" space-after="0.28cm" orphans="2" widows="2"><fo:inline><fo:external-graphic scaling="non-uniform" src="url(file:/C:/Users/menra/IdeaProjects/xmlParser1/images/img2f6f02e3.png)" width="13.891cm" content-width="13.891cm" content-height="6.641cm" height="6.641cm"/></fo:inline></fo:block>
+   <fo:block space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2"><fo:inline font-style="italic">_igure : figur_ 2</fo:inline></fo:block>
+   <fo:block space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Sur la figure 3, un maxi_um de trois cours peut être piloté en même temps. De plus, la conception du système est telle que les colonnes Active (Actif) et Done (Terminé) sont contraintes par une limite WIP totale. Actuellement, il y a un élément violet dans la colonne Active, un élément beige dans la colonne Done et il y a de la capacité pour un autre cours, comme l’ind_que l’emplacement en pointillés gris.</fo:block>
+   <fo:block space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Limiter le travail autori_é à entrer dans le système est une clé essentielle pour réduire les retards et les changements de contexte qui sont susceptibles d’entraîner u_ manque de rapidité_ de qualité et un gaspillage potentiel. L’objectif, ici, e_t de créer un équilibre entre la demande et la capacité à long terme.</fo:block>
+   <fo:block white-space-collapse="false" white-space-treatment="preserve" space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond"> </fo:block>
+   <fo:block line-height="13.5pt" language="fr" space-after="0.28cm" orphans="2" widows="2"><fo:inline><fo:external-graphic scaling="non-uniform" src="url(file:/C:/Users/menra/IdeaProjects/xmlParser1/images/imgb4ceaac4.png)" width="15.849cm" content-width="15.849cm" content-height="8.414cm" height="8.414cm"/></fo:inline></fo:block>
+   <fo:block space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2"><fo:inline font-style="italic">Figure : figure 3</fo:inline></fo:block>
+   <fo:block space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Limiter le travail autorisé à entrer d_ns le système entretient un flux de travail continu grâce au principe “Pu_l”, selon lequel l’e_traction (tirer de nouveaux éléments) n’a lieu que si la capacité est _isponible. Un signal de tirage virtuel est généré lorsque la limite WIP n’est pas plei_ement utilisée. Alors que sur le tableau, le travail se déplace vers la droite, les signaux _Pull” se transportent ver_ la gauche, plus en amont (Figure _).</fo:block>
+   <fo:block space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Le « principe Pull » se distingue don_ fortement de la gestion de projet traditionnelle, où les éléments de travail sont organisés sur la base d’un éch_ancier déterministe (push). Dans les systèmes à flux tiré, on considère que le travail terminé a plus de valeur que la mise en route d’un nouveau travail. Il s’agit pour beaucoup d’entre n_us d’un changement culturel. « Arrêtez d_ commencer, commencez à finir », voici un bon mantra à retenir pour commencer !</fo:block>
+   <fo:block space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Les limites WIP sont un exemple s_écifique de règles dans un système Kanban. Pour plus d’inform_tions, consultez la section « Rendre les règles explicites » sous la rubrique Pratiques générales Kanban du guide. Les limites doivent être acceptées par toutes les personnes activement impliquées. Elles servent de contrainte positive. Elles permettent de se concentrer et de développer la collaboration et l’_chèvement des éléments commencés, tout en maintenant un degré de qualité élevée. Les limites WIP sont essentielles à la mise en _uvre d’un système à flux tiré.</fo:block>
+   <fo:block white-space-collapse="false" white-space-treatment="preserve" space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond"> </fo:block>
+   <fo:list-block provisional-distance-between-starts="0.64cm" margin-left="0.64cm" margin-right="0cm">
+    <fo:list-item space-after="5pt" space-before="5pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="13.5pt" font-family="Garamond"><fo:inline color="#7030a0" font-weight="bold">5.</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="center"><fo:inline id="_Toc119551990"/><fo:inline color="#7030a0" font-weight="bold">Métriques fondamentales de Kanba_</fo:inline><fo:inline id="_Toc119551990:end"/></fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+   </fo:list-block>
+   <fo:block space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Il existe un certain nomb_e de mesures de base dans Kanban :</fo:block>
+   <fo:list-block provisional-distance-between-starts="0.64cm" margin-left="0.64cm" margin-right="0cm">
+    <fo:list-item space-after="8pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="13.5pt" font-family="Symbol"><fo:inline>·</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Le délai de livra_son est le temps nécessaire pour qu’un seul élément de travail pa_se dans le système, de sa mise en route (point d’enga_ement) à l’achève_ent.</fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+    <fo:list-item space-after="8pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="13.5pt" font-family="Symbol"><fo:inline>·</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Le taux de livrai_on correspond au nombre d’éléments de travail terminés p_r unité de temps tels que les fonctionnalités par semaine, les formations ou les recrutements par mois.</fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+    <fo:list-item space-after="8pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="13.5pt" font-family="Symbol"><fo:inline>·</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Le WIP (travail en c_urs) est la quantité d’éléments de travail dans le sy_tème (ou une partie définie de celui-ci) à un moment donné.</fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+   </fo:list-block>
+   <fo:block space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Ces métriques de base sont uti_isées dans plusieurs représentations graphiques afin de comprendre le comportement du système et d’identifier les amélior_tions possibles.</fo:block>
+   <fo:block white-space-collapse="false" white-space-treatment="preserve" space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond"> </fo:block>
+   <fo:list-block provisional-distance-between-starts="0.64cm" margin-left="0.64cm" margin-right="0cm">
+    <fo:list-item space-after="5pt" space-before="5pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="13.5pt" font-family="Garamond"><fo:inline color="#7030a0" font-weight="bold">6.</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2" text-align="center"><fo:inline id="_Toc119551991"/><fo:inline color="#7030a0" font-weight="bold">Cadences Kanban</fo:inline><fo:inline id="_Toc119551991:end"/></fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+   </fo:list-block>
+   <fo:block space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Dans les premières implémentations Kanban, les boucles de rétroaction peuvent être inexistantes. Puis, elles évoluent et font progresser à leur tour la maturité. Nous vous encourageons donc à construire progressivement vos cadences.</fo:block>
+   <fo:block space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">_euillez noter que, comme tous les éléments d’une imp_émentation Kanban, les cadences peuvent et doivent être configurées pour s’adapter au contexte organis_tionnel donné.</fo:block>
+   <fo:block space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Concrètement, cela _ignifie :</fo:block>
+   <fo:list-block provisional-distance-between-starts="0.64cm" margin-left="0.64cm" margin-right="0cm">
+    <fo:list-item space-after="8pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="13.5pt" font-family="Symbol"><fo:inline>·</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Identifier les réunions et les _évisions déjà existantes servant un objectif similaire, et les faire évoluer de manière continue.</fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+    <fo:list-item space-after="8pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="13.5pt" font-family="Symbol"><fo:inline>·</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Conserver le_ noms existants ou utiliser l’appellation stand_rd des cadences, ou alors en inventer d’autres. C’est l’objectif qui co_pte.</fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+    <fo:list-item space-after="8pt">
+     <fo:list-item-label end-indent="body-start()">
+      <fo:block font-size="13.5pt" font-family="Symbol"><fo:inline>·</fo:inline></fo:block>
+     </fo:list-item-label>
+     <fo:list-item-body start-indent="body-start()">
+      <fo:block font-size="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Choisir la fréquence et la durée en fonction de votre contexte. Souvent la tenue de réunions plus fréquentes, mais plus courtes dans le temps, favorise l’agilité.</fo:block>
+     </fo:list-item-body>
+    </fo:list-item>
+   </fo:list-block>
+   <fo:block space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Effet secon_aire notable des nombreuses initiatives Kanban : des réunions régulières mieux ciblées, plus structurées et mieux gérées, avec moins de participants.</fo:block>
+   <fo:block white-space-collapse="false" white-space-treatment="preserve" space-after="0.28cm" font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond"> </fo:block>
+   <fo:table margin-left="-0.2cm" display-align="auto" table-layout="fixed" border-collapse="collapse">
+    <fo:table-column column-width="5.33cm"/>
+    <fo:table-column column-width="5.33cm"/>
+    <fo:table-column column-width="5.33cm"/>
+    <fo:table-body>
+     <fo:table-row>
+      <fo:table-cell padding-left="5.4pt" border-color="black" border-width="0.5pt" border-style="solid" padding-right="5.4pt">
+       <fo:block font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2"><fo:inline color="#74468f" font-weight="bold">Cadence</fo:inline></fo:block>
+      </fo:table-cell>
+      <fo:table-cell padding-left="5.4pt" border-color="black" border-width="0.5pt" border-style="solid" padding-right="5.4pt">
+       <fo:block font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2"><fo:inline color="#74468f" font-weight="bold">Exemple de fréquence</fo:inline></fo:block>
+      </fo:table-cell>
+      <fo:table-cell padding-left="5.4pt" border-color="black" border-width="0.5pt" border-style="solid" padding-right="5.4pt">
+       <fo:block font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2"><fo:inline color="#74468f" font-weight="bold">Objectifs</fo:inline></fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell padding-left="5.4pt" border-color="black" border-width="0.5pt" border-style="solid" padding-right="5.4pt">
+       <fo:block font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2"><fo:inline font-weight="bold">Réunion d’équipe Kanban</fo:inline></fo:block>
+      </fo:table-cell>
+      <fo:table-cell padding-left="5.4pt" border-color="black" border-width="0.5pt" border-style="solid" padding-right="5.4pt">
+       <fo:block font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Quotidienne</fo:block>
+      </fo:table-cell>
+      <fo:table-cell padding-left="5.4pt" border-color="black" border-width="0.5pt" border-style="solid" padding-right="5.4pt">
+       <fo:block font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Observer et suivre l’état du travail (e_ non les travailleurs) et son flux. Comment peut-on livrer rapidement les éléments de travail dans le système ? La _apacité est-elle disponible ?</fo:block>
+       <fo:block font-size="13.5pt" line-height="13.5pt" language="fr" font-family="Garamond" orphans="2" widows="2">Que devons-nous tirer en_uite ?</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+    </fo:table-body>
+   </fo:table>
+   <fo:block space-after="0.28cm" font-size="12pt" line-height="12pt" language="fr" font-family="Calibri" orphans="2" widows="2"><fo:inline color="#ff0000" font-weight="bold">This document was truncate_ here because it was created in the Evaluation Mode.</fo:inline></fo:block>
+   <fo:block-container background-color="#ffe0e0" top="23.401538888888886cm" absolute-position="absolute" left="13.00203888888889cm" width="2.9999999999999996cm" border-color="red" border-width="0.5pt" position="absolute" border-style="solid" height="1.2999999999999998cm">
+    <fo:block text-align="center"><fo:inline font-size="10pt">JFO - Evaluation</fo:inline></fo:block>
+    <fo:block font-size="10pt" text-align="center"><fo:inline color="#000080" font-size="6pt">Ver. 3.01.012 [2014/03/18]</fo:inline></fo:block>
+    <fo:block font-size="6pt" text-align="center"><fo:basic-link external-destination="url(&apos;http://www.vision-cloud.de&apos;)"><fo:inline font-size="7pt">http://www.vision-cloud.de</fo:inline></fo:basic-link></fo:block>
+   </fo:block-container>
+  </fo:flow>
+ </fo:page-sequence>
+</fo:root>

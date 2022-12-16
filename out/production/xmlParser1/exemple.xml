@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<mail>
+    <de>stephane.crozat@utc.fr</de>
+    <a>fabrice.issac@utc.fr</a>
+    <objet>Demande d'information</objet>
+    <date>01-03-2001</date>
+    <corps>
+        <paragraphe>Bonjour Fabrice,</paragraphe>
+        <paragraphe>Peux tu m'expliquer ce qu'est le langage XML ?</paragraphe>
+        <paragraphe>Il me faudrait en effet ton avis éclairé sur le sujet.</paragraphe>
+        <paragraphe>J'attends ta réponse, à bientôt</paragraphe>
+    </corps>
+</mail>

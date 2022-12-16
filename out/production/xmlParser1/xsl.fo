@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format">
+    <fo:layout-master-set>
+        <fo:simple-page-master margin-right="2.499431cm" page-height="29.7004cm" margin-left="2.499431cm" margin-bottom="2.00025cm" page-width="21.0009cm" margin-top="2.499431cm" master-name="spm0">
+            <fo:region-body/>
+        </fo:simple-page-master>
+    </fo:layout-master-set>
+    <fo:page-sequence hyphenate="false" language="de" master-reference="spm0">
+        <fo:flow flow-name="xsl-region-body">
+            <fo:block widows="2" orphans="2" font-size="20pt" font-family="Arial" language="en"><fo:inline text-decoration="underline" font-weight="bold">E_ample: Fill in tables</fo:inline></fo:block>
+            <fo:block white-space-treatment="preserve" font-size="12pt" white-space-collapse="false" font-family="Arial" language="en"> </fo:block>
+            <fo:block white-space-treatment="preserve" font-size="12pt" white-space-collapse="false" font-family="Arial" language="en"> </fo:block>
+            <fo:block widows="2" orphans="2" font-size="12pt" font-family="Arial" language="en">This RTF file is p_ocessed by example class examp_es.rtf2fo.FillinTables. </fo:block>
+            <fo:block text-indent="-1.27cm" white-space-treatment="preserve" font-size="12pt" margin-left="1.27cm" white-space-collapse="false" font-family="Arial" language="en"> </fo:block>
+            <fo:block widows="2" text-indent="-1.27cm" orphans="2" font-size="12pt" margin-left="1.27cm" font-family="Arial" language="en"><fo:inline color="#ff0000">Note: </fo:inline><fo:leader leader-length="3.0500000000000003pt"/><fo:inline color="#ff0000">If you view this document wit_ Microsoft Word and don’t see any fields, then press _lt+ F9</fo:inline></fo:block>
+            <fo:block white-space-treatment="preserve" font-size="12pt" white-space-collapse="false" font-family="Arial" language="en"> </fo:block>
+            <fo:block white-space-treatment="preserve" font-size="12pt" white-space-collapse="false" font-family="Arial" language="en"> </fo:block>
+            <fo:block widows="2" orphans="2" font-size="12pt" font-family="Arial" language="en">Simple Test Table</fo:block>
+            <fo:block white-space-treatment="preserve" font-size="12pt" white-space-collapse="false" font-family="Arial" language="en"> </fo:block>
+            <fo:table border-collapse="collapse" display-align="auto" margin-left="-0.13cm" table-layout="fixed">
+                <fo:table-column column-width="2.35cm"/>
+                <fo:table-column column-width="11.11cm"/>
+                <fo:table-column column-width="2.79cm"/>
+                <fo:table-body>
+                    <fo:table-row>
+                        <fo:table-cell padding-right="5.4pt" padding-left="5.4pt" border-style="solid" background-color="#e6e6e6" border-color="black" border-width="0.5pt">
+                            <fo:block widows="2" orphans="2" font-size="12pt" font-family="Arial" language="en">No</fo:block>
+                        </fo:table-cell>
+                        <fo:table-cell padding-right="5.4pt" padding-left="5.4pt" border-style="solid" background-color="#e6e6e6" border-color="black" border-width="0.5pt">
+                            <fo:block widows="2" orphans="2" font-size="12pt" font-family="Arial" language="en">Item</fo:block>
+                        </fo:table-cell>
+                        <fo:table-cell padding-right="5.4pt" padding-left="5.4pt" border-style="solid" background-color="#e6e6e6" border-color="black" border-width="0.5pt">
+                            <fo:block widows="2" orphans="2" font-size="12pt" font-family="Arial" language="en">Price</fo:block>
+                        </fo:table-cell>
+                    </fo:table-row>
+                    <fo:table-row>
+                        <fo:table-cell padding-right="5.4pt" padding-left="5.4pt" border-style="solid" border-color="black" border-width="0.5pt">
+                            <fo:block widows="2" linefeed-treatment="preserve" orphans="2" language="en"><fo:inline font-size="12pt" white-space-collapse="false" font-family="Arial">1</fo:inline></fo:block>
+                        </fo:table-cell>
+                        <fo:table-cell padding-right="5.4pt" padding-left="5.4pt" border-style="solid" border-color="black" border-width="0.5pt">
+                            <fo:block widows="2" linefeed-treatment="preserve" orphans="2" language="en"><fo:inline font-size="12pt" white-space-collapse="false" font-family="Arial">Item 1</fo:inline></fo:block>
+                        </fo:table-cell>
+                        <fo:table-cell padding-right="5.4pt" padding-left="5.4pt" border-style="solid" border-color="black" border-width="0.5pt">
+                            <fo:block widows="2" linefeed-treatment="preserve" orphans="2" text-align="right" language="en"><fo:inline font-size="12pt" white-space-collapse="false" font-family="Arial">1.00</fo:inline></fo:block>
+                        </fo:table-cell>
+                    </fo:table-row>
+                    <fo:table-row>
+                        <fo:table-cell padding-right="5.4pt" padding-left="5.4pt" border-style="solid" border-color="black" border-width="0.5pt">
+                            <fo:block widows="2" linefeed-treatment="preserve" orphans="2" language="en"><fo:inline font-size="12pt" white-space-collapse="false" font-family="Arial">2</fo:inline></fo:block>
+                        </fo:table-cell>
+                        <fo:table-cell padding-right="5.4pt" padding-left="5.4pt" border-style="solid" border-color="black" border-width="0.5pt">
+                            <fo:block widows="2" linefeed-treatment="preserve" orphans="2" language="en"><fo:inline font-size="12pt" white-space-collapse="false" font-family="Arial">Item 2</fo:inline></fo:block>
+                        </fo:table-cell>
+                        <fo:table-cell padding-right="5.4pt" padding-left="5.4pt" border-style="solid" border-color="black" border-width="0.5pt">
+                            <fo:block widows="2" linefeed-treatment="preserve" orphans="2" text-align="right" language="en"><fo:inline font-size="12pt" white-space-collapse="false" font-family="Arial">2.00</fo:inline></fo:block>
+                        </fo:table-cell>
+                    </fo:table-row>
+                    <fo:table-row>
+                        <fo:table-cell padding-right="5.4pt" padding-left="5.4pt" border-style="solid" border-color="black" border-width="0.5pt">
+                            <fo:block widows="2" linefeed-treatment="preserve" orphans="2" language="en"><fo:inline font-size="12pt" white-space-collapse="false" font-family="Arial">3</fo:inline></fo:block>
+                        </fo:table-cell>
+                        <fo:table-cell padding-right="5.4pt" padding-left="5.4pt" border-style="solid" border-color="black" border-width="0.5pt">
+                            <fo:block widows="2" linefeed-treatment="preserve" orphans="2" language="en"><fo:inline font-size="12pt" white-space-collapse="false" font-family="Arial">Item 3</fo:inline></fo:block>
+                        </fo:table-cell>
+                        <fo:table-cell padding-right="5.4pt" padding-left="5.4pt" border-style="solid" border-color="black" border-width="0.5pt">
+                            <fo:block widows="2" linefeed-treatment="preserve" orphans="2" text-align="right" language="en"><fo:inline font-size="12pt" white-space-collapse="false" font-family="Arial">3.00</fo:inline></fo:block>
+                        </fo:table-cell>
+                    </fo:table-row>
+                </fo:table-body>
+            </fo:table>
+            <fo:block white-space-treatment="preserve" font-size="12pt" white-space-collapse="false" font-family="Arial" language="en"> </fo:block>
+            <fo:block white-space-treatment="preserve" font-size="12pt" white-space-collapse="false" font-family="Arial" language="en"> </fo:block>
+            <fo:block widows="2" orphans="2" font-size="12pt" font-family="Arial" language="en">Table _ith data spanned over columns</fo:block>
+            <fo:block white-space-treatment="preserve" font-size="12pt" white-space-collapse="false" font-family="Arial" language="en"> </fo:block>
+            <fo:table border-collapse="collapse" display-align="auto" margin-left="-0.13cm" table-layout="fixed">
+                <fo:table-column column-width="1.71cm"/>
+                <fo:table-column column-width="0.95cm"/>
+                <fo:table-column column-width="9.84cm"/>
+                <fo:table-column column-width="1.9cm"/>
+                <fo:table-column column-width="1.84cm"/>
+                <fo:table-body>
+                    <fo:table-row>
+                        <fo:table-cell padding-right="5.4pt" padding-left="5.4pt" border-style="solid" background-color="#e6e6e6" border-color="black" border-width="0.5pt" number-columns-spanned="2">
+                            <fo:block widows="2" orphans="2" font-size="12pt" font-family="Arial" language="en">Amount</fo:block>
+                        </fo:table-cell>
+                        <fo:table-cell padding-right="5.4pt" padding-left="5.4pt" border-bottom-width="0.5pt" border-bottom-style="solid" border-style="solid" background-color="#e6e6e6" border-color="black" border-width="0.5pt" number-rows-spanned="2" border-bottom-color="black">
+                            <fo:block widows="2" orphans="2" font-size="12pt" font-family="Arial" language="en">Item</fo:block>
+                        </fo:table-cell>
+                        <fo:table-cell padding-right="5.4pt" padding-left="5.4pt" border-bottom-width="0.5pt" border-bottom-style="solid" border-style="solid" background-color="#e6e6e6" border-color="black" border-width="0.5pt" number-rows-spanned="2" border-bottom-color="black">
+                            <fo:block widows="2" orphans="2" font-size="12pt" font-family="Arial" language="en">Item _rice</fo:block>
+                        </fo:table-cell>
+                        <fo:table-cell padding-right="5.4pt" padding-left="5.4pt" border-bottom-width="0.5pt" border-bottom-style="solid" border-style="solid" background-color="#e6e6e6" border-color="black" border-width="0.5pt" number-rows-spanned="2" border-bottom-color="black">
+                            <fo:block widows="2" orphans="2" font-size="12pt" font-family="Arial" language="en">Total Price</fo:block>
+                        </fo:table-cell>
+                    </fo:table-row>
+                    <fo:table-row>
+                        <fo:table-cell padding-right="5.4pt" padding-left="5.4pt" display-align="center" border-style="solid" background-color="#e6e6e6" border-color="black" border-width="0.5pt">
+                            <fo:block widows="2" orphans="2" text-align="right" font-size="8pt" font-family="Arial" language="en">Quantity</fo:block>
+                        </fo:table-cell>
+                        <fo:table-cell padding-right="5.4pt" padding-left="5.4pt" display-align="center" border-style="solid" background-color="#e6e6e6" border-color="black" border-width="0.5pt">
+                            <fo:block widows="2" orphans="2" font-size="8pt" font-family="Arial" language="en">Unit</fo:block>
+                        </fo:table-cell>
+                    </fo:table-row>
+                    <fo:table-row>
+                        <fo:table-cell padding-right="5.4pt" padding-left="5.4pt" border-style="solid" border-color="black" border-width="0.5pt">
+                            <fo:block widows="2" linefeed-treatment="preserve" orphans="2" text-align="right" language="en"><fo:inline font-size="12pt" white-space-collapse="false" font-family="Arial">1</fo:inline></fo:block>
+                        </fo:table-cell>
+                        <fo:table-cell padding-right="5.4pt" padding-left="5.4pt" border-style="solid" border-color="black" border-width="0.5pt">
+                            <fo:block widows="2" linefeed-treatment="preserve" orphans="2" language="en"><fo:inline font-size="12pt" white-space-collapse="false" font-family="Arial">m</fo:inline></fo:block>
+                        </fo:table-cell>
+                        <fo:table-cell padding-right="5.4pt" padding-left="5.4pt" border-style="solid" border-color="black" border-width="0.5pt">
+                            <fo:block widows="2" linefeed-treatment="preserve" orphans="2" language="en"><fo:inline font-size="12pt" white-space-collapse="false" font-family="Arial">Item 1</fo:inline></fo:block>
+                        </fo:table-cell>
+                        <fo:table-cell padding-right="5.4pt" padding-left="5.4pt" border-style="solid" border-color="black" border-width="0.5pt">
+                            <fo:block widows="2" linefeed-treatment="preserve" orphans="2" text-align="right" language="en"><fo:inline font-size="12pt" white-space-collapse="false" font-family="Arial">2.00</fo:inline></fo:block>
+                        </fo:table-cell>
+                        <fo:table-cell padding-right="5.4pt" padding-left="5.4pt" border-style="solid" border-color="black" border-width="0.5pt">
+                            <fo:block widows="2" linefeed-treatment="preserve" orphans="2" text-align="right" language="en"><fo:inline font-size="12pt" white-space-collapse="false" font-family="Arial">2.00</fo:inline></fo:block>
+                        </fo:table-cell>
+                    </fo:table-row>
+                    <fo:table-row>
+                        <fo:table-cell padding-right="5.4pt" padding-left="5.4pt" border-style="solid" border-color="black" border-width="0.5pt" number-columns-spanned="2">
+                            <fo:block widows="2" orphans="2" text-align="right" font-size="12pt" font-family="Arial" language="en">flatrate</fo:block>
+                        </fo:table-cell>
+                        <fo:table-cell padding-right="5.4pt" padding-left="5.4pt" border-style="solid" border-color="black" border-width="0.5pt">
+                            <fo:block widows="2" linefeed-treatment="preserve" orphans="2" language="en"><fo:inline font-size="12pt" white-space-collapse="false" font-family="Arial">Item 2</fo:inline></fo:block>
+                        </fo:table-cell>
+                        <fo:table-cell padding-right="5.4pt" padding-left="5.4pt" border-style="solid" border-color="black" border-width="0.5pt" number-columns-spanned="2">
+                            <fo:block widows="2" orphans="2" text-align="right" font-size="12pt" font-family="Arial" language="en">39.00</fo:block>
+                        </fo:table-cell>
+                    </fo:table-row>
+                    <fo:table-row>
+                        <fo:table-cell padding-right="5.4pt" padding-left="5.4pt" border-style="solid" border-color="black" border-width="0.5pt">
+                            <fo:block widows="2" linefeed-treatment="preserve" orphans="2" text-align="right" language="en"><fo:inline font-size="12pt" white-space-collapse="false" font-family="Arial">3</fo:inline></fo:block>
+                        </fo:table-cell>
+                        <fo:table-cell padding-right="5.4pt" padding-left="5.4pt" border-style="solid" border-color="black" border-width="0.5pt">
+                            <fo:block widows="2" linefeed-treatment="preserve" orphans="2" language="en"><fo:inline font-size="12pt" white-space-collapse="false" font-family="Arial">kg</fo:inline></fo:block>
+                        </fo:table-cell>
+                        <fo:table-cell padding-right="5.4pt" padding-left="5.4pt" border-style="solid" border-color="black" border-width="0.5pt">
+                            <fo:block widows="2" linefeed-treatment="preserve" orphans="2" language="en"><fo:inline font-size="12pt" white-space-collapse="false" font-family="Arial">Item 3</fo:inline></fo:block>
+                        </fo:table-cell>
+                        <fo:table-cell padding-right="5.4pt" padding-left="5.4pt" border-style="solid" border-color="black" border-width="0.5pt">
+                            <fo:block widows="2" linefeed-treatment="preserve" orphans="2" text-align="right" language="en"><fo:inline font-size="12pt" white-space-collapse="false" font-family="Arial">2.00</fo:inline></fo:block>
+                        </fo:table-cell>
+                        <fo:table-cell padding-right="5.4pt" padding-left="5.4pt" border-style="solid" border-color="black" border-width="0.5pt">
+                            <fo:block widows="2" linefeed-treatment="preserve" orphans="2" text-align="right" language="en"><fo:inline font-size="12pt" white-space-collapse="false" font-family="Arial">6.00</fo:inline></fo:block>
+                        </fo:table-cell>
+                    </fo:table-row>
+                </fo:table-body>
+            </fo:table>
+            <fo:block white-space-treatment="preserve" font-size="12pt" white-space-collapse="false" font-family="Arial" language="en"> </fo:block>
+            <fo:block white-space-treatment="preserve" font-size="12pt" white-space-collapse="false" font-family="Arial" language="en"> </fo:block>
+            <fo:block widows="2" orphans="2" font-size="12pt" font-family="Arial" language="en">Conditions and Formatting</fo:block>
+            <fo:block white-space-treatment="preserve" font-size="12pt" white-space-collapse="false" font-family="Arial" language="en"> </fo:block>
+            <fo:table border-collapse="collapse" display-align="auto" margin-left="-0.13cm" table-layout="fixed">
+                <fo:table-column column-width="4.01cm"/>
+                <fo:table-column column-width="4.01cm"/>
+                <fo:table-column column-width="4.29cm"/>
+                <fo:table-body>
+                    <fo:table-row>
+                        <fo:table-cell padding-right="5.4pt" padding-left="5.4pt" border-style="solid" background-color="#e6e6e6" border-color="black" border-width="0.5pt">
+                            <fo:block widows="2" orphans="2" font-size="12pt" font-family="Arial" language="en">Unformatted value</fo:block>
+                        </fo:table-cell>
+                        <fo:table-cell padding-right="5.4pt" padding-left="5.4pt" border-style="solid" background-color="#e6e6e6" border-color="black" border-width="0.5pt">
+                            <fo:block widows="2" orphans="2" text-align="right" font-size="12pt" font-family="Arial" language="en">Formatted value</fo:block>
+                        </fo:table-cell>
+                        <fo:table-cell padding-right="5.4pt" padding-left="5.4pt" border-style="solid" background-color="#e6e6e6" border-color="black" border-width="0.5pt">
+                            <fo:block widows="2" orphans="2" text-align="right" font-size="12pt" font-family="Arial" language="en">Is z_ro test</fo:block>
+                        </fo:table-cell>
+                    </fo:table-row>
+                    <fo:table-row>
+                        <fo:table-cell padding-right="5.4pt" padding-left="5.4pt" border-style="solid" border-color="black" border-width="0.5pt">
+                            <fo:block widows="2" linefeed-treatment="preserve" orphans="2" text-align="right" language="en"><fo:inline font-size="12pt" white-space-collapse="false" font-family="Arial">200</fo:inline></fo:block>
+                        </fo:table-cell>
+                        <fo:table-cell padding-right="5.4pt" padding-left="5.4pt" border-style="solid" border-color="black" border-width="0.5pt">
+                            <fo:block widows="2" orphans="2" text-align="right" font-size="12pt" font-family="Arial" language="en"><fo:inline font-size="12pt" white-space-collapse="false" font-family="Arial">€ 2,00 </fo:inline></fo:block>
+                        </fo:table-cell>
+                        <fo:table-cell padding-right="5.4pt" padding-left="5.4pt" border-style="solid" border-color="black" border-width="0.5pt">
+                            <fo:block widows="2" orphans="2" text-align="right" font-size="12pt" font-family="Arial" language="en">Is zero valu_: <fo:inline color="#c0c0c0" font-size="12pt" font-family="Arial">no</fo:inline></fo:block>
+                        </fo:table-cell>
+                    </fo:table-row>
+                    <fo:table-row>
+                        <fo:table-cell padding-right="5.4pt" padding-left="5.4pt" border-style="solid" border-color="black" border-width="0.5pt">
+                            <fo:block widows="2" linefeed-treatment="preserve" orphans="2" text-align="right" language="en"><fo:inline font-size="12pt" white-space-collapse="false" font-family="Arial">-200</fo:inline></fo:block>
+                        </fo:table-cell>
+                        <fo:table-cell padding-right="5.4pt" padding-left="5.4pt" border-style="solid" border-color="black" border-width="0.5pt">
+                            <fo:block widows="2" orphans="2" text-align="right" font-size="12pt" font-family="Arial" language="en"><fo:inline font-size="12pt" white-space-collapse="false" font-family="Arial">€ -2,00 </fo:inline></fo:block>
+                        </fo:table-cell>
+                        <fo:table-cell padding-right="5.4pt" padding-left="5.4pt" border-style="solid" border-color="black" border-width="0.5pt">
+                            <fo:block widows="2" orphans="2" text-align="right" font-size="12pt" font-family="Arial" language="en">Is zero valu_: <fo:inline color="#c0c0c0" font-size="12pt" font-family="Arial">no</fo:inline></fo:block>
+                        </fo:table-cell>
+                    </fo:table-row>
+                    <fo:table-row>
+                        <fo:table-cell padding-right="5.4pt" padding-left="5.4pt" border-style="solid" border-color="black" border-width="0.5pt">
+                            <fo:block widows="2" linefeed-treatment="preserve" orphans="2" text-align="right" language="en"><fo:inline font-size="12pt" white-space-collapse="false" font-family="Arial">10.5</fo:inline></fo:block>
+                        </fo:table-cell>
+                        <fo:table-cell padding-right="5.4pt" padding-left="5.4pt" border-style="solid" border-color="black" border-width="0.5pt">
+                            <fo:block widows="2" orphans="2" text-align="right" font-size="12pt" font-family="Arial" language="en"><fo:inline font-size="12pt" white-space-collapse="false" font-family="Arial">€ 0,10 </fo:inline></fo:block>
+                        </fo:table-cell>
+                        <fo:table-cell padding-right="5.4pt" padding-left="5.4pt" border-style="solid" border-color="black" border-width="0.5pt">
+                            <fo:block widows="2" orphans="2" text-align="right" font-size="12pt" font-family="Arial" language="en">Is zero valu_: <fo:inline color="#c0c0c0" font-size="12pt" font-family="Arial">no</fo:inline></fo:block>
+                        </fo:table-cell>
+                    </fo:table-row>
+                    <fo:table-row>
+                        <fo:table-cell padding-right="5.4pt" padding-left="5.4pt" border-style="solid" border-color="black" border-width="0.5pt">
+                            <fo:block widows="2" linefeed-treatment="preserve" orphans="2" text-align="right" language="en"><fo:inline font-size="12pt" white-space-collapse="false" font-family="Arial">-10.5</fo:inline></fo:block>
+                        </fo:table-cell>
+                        <fo:table-cell padding-right="5.4pt" padding-left="5.4pt" border-style="solid" border-color="black" border-width="0.5pt">
+                            <fo:block widows="2" orphans="2" text-align="right" font-size="12pt" font-family="Arial" language="en"><fo:inline font-size="12pt" white-space-collapse="false" font-family="Arial">€ -0,10 </fo:inline></fo:block>
+                        </fo:table-cell>
+                        <fo:table-cell padding-right="5.4pt" padding-left="5.4pt" border-style="solid" border-color="black" border-width="0.5pt">
+                            <fo:block widows="2" orphans="2" text-align="right" font-size="12pt" font-family="Arial" language="en">Is zero valu_: <fo:inline color="#c0c0c0" font-size="12pt" font-family="Arial">no</fo:inline></fo:block>
+                        </fo:table-cell>
+                    </fo:table-row>
+                    <fo:table-row>
+                        <fo:table-cell padding-right="5.4pt" padding-left="5.4pt" border-style="solid" border-color="black" border-width="0.5pt">
+                            <fo:block widows="2" linefeed-treatment="preserve" orphans="2" text-align="right" language="en"><fo:inline font-size="12pt" white-space-collapse="false" font-family="Arial">0</fo:inline></fo:block>
+                        </fo:table-cell>
+                        <fo:table-cell padding-right="5.4pt" padding-left="5.4pt" border-style="solid" border-color="black" border-width="0.5pt">
+                            <fo:block widows="2" orphans="2" text-align="right" font-size="12pt" font-family="Arial" language="en"><fo:inline font-size="12pt" white-space-collapse="false" font-family="Arial">€ 0,00 </fo:inline></fo:block>
+                        </fo:table-cell>
+                        <fo:table-cell padding-right="5.4pt" padding-left="5.4pt" border-style="solid" border-color="black" border-width="0.5pt">
+                            <fo:block widows="2" orphans="2" text-align="right" font-size="12pt" font-family="Arial" language="en">Is zero valu_: <fo:inline color="#c0c0c0" font-size="12pt" font-family="Arial">no</fo:inline></fo:block>
+                        </fo:table-cell>
+                    </fo:table-row>
+                </fo:table-body>
+            </fo:table>
+            <fo:block white-space-treatment="preserve" font-size="12pt" white-space-collapse="false" font-family="Arial" language="en"> </fo:block>
+            <fo:block-container position="absolute" height="1.2999999999999998cm" width="2.9999999999999996cm" border-style="solid" background-color="#ffe0e0" border-color="red" absolute-position="absolute" left="13.00203888888889cm" border-width="0.5pt" top="23.90071944444444cm">
+                <fo:block text-align="center"><fo:inline font-size="10pt">JFO - Evaluation</fo:inline></fo:block>
+                <fo:block text-align="center" font-size="10pt"><fo:inline color="#000080" font-size="6pt">Ver. 3.01.012 [2014/03/18]</fo:inline></fo:block>
+                <fo:block text-align="center" font-size="6pt"><fo:basic-link external-destination="url(&apos;http://www.vision-cloud.de&apos;)"><fo:inline font-size="7pt">http://www.vision-cloud.de</fo:inline></fo:basic-link></fo:block>
+            </fo:block-container>
+        </fo:flow>
+    </fo:page-sequence>
+</fo:root>
