@@ -22,6 +22,8 @@ public class FoToXML1 {
     static Element notion = null;
     static Element racine = null;
     static int partIter = 1;
+    static int chapCount = 1;
+    static int paraCount = 1;
 
     public static void main(String[] args) {
         System.out.println("En cours de Conversion...");
@@ -35,7 +37,7 @@ public class FoToXML1 {
             builder.setIgnoringElementContentWhitespace(true);
             Document documentSource = builder.build(new File("src/modelSup.fo"));
 
-            racine = new Element("Cours");
+            racine = new Element("cours");
             Document document = new Document(racine);
             int countNotion = 1;
 
@@ -70,7 +72,9 @@ public class FoToXML1 {
                                 racine.addContent(parti);
                                 chap=null;
                                 para=null;
+                                notion = null;
                                 partIter++;
+                                chapCount=1;
                             }
                             else if (Pattern.matches("\\d.\\d.",lab)){
                                 chap = new Element("chapitre");
@@ -78,19 +82,22 @@ public class FoToXML1 {
                                 if(parti!=null){
                                     part = parti.getAttributeValue("label");
                                 }
-                                chap.setAttribute("label",part);
+                                chap.setAttribute("label",part + "." + String.valueOf(chapCount));
                                 //chap.addContent(new Element("label").setText(lab));
                                 chap.addContent(new Element("titre").setText(title));
                                 parti.addContent(chap);
 
-                                //para=null;
+                                para=null;
+                                notion=null;
+                                chapCount++;
+                                paraCount=1;
                             }
                             else if (Pattern.matches("\\d.\\d.\\d.",lab)){
                                 String part = "";
                                 if (chap!=null){
                                     part = chap.getAttributeValue("label");
                                 }
-                                para = new Element("paragraphe").setAttribute("label",part);
+                                para = new Element("paragraphe").setAttribute("label",part + "."+ String.valueOf(paraCount));
                                 //para.addContent(new Element("label").setText(lab));
                                 para.addContent(new Element("titre").setText(title));
                                 chap.addContent(para);
@@ -98,14 +105,13 @@ public class FoToXML1 {
                                 notion.addContent(new Element("titre").setText("titre par defaut"));
                                 notion.addContent(new Element("contenu"));
                                 para.addContent(notion);
+                                paraCount++;
                                 countNotion= 1;
                             }
                         }
 
                         else {
                             //Creer un élément liste
-                            //System.out.printf("list-size : ");
-                            //System.out.println(child.getChildren().size());
                             String part = conteneur(para, chap, parti);
                             Element list = new Element("ul");
                             insert(list);
@@ -115,10 +121,7 @@ public class FoToXML1 {
                                 Object lt = listIterator.next();
                                 if (lt instanceof Element) {
                                     Element listItem = (Element) lt;
-                                    //String label = listItem.getChild("list-item-label", fo).getChild("block", fo).getChild("inline", fo).getText();
                                     String content = listItem.getChild("list-item-body", fo).getChild("block", fo).getText();
-                                    //Element item = new Element("item");
-                                    //item.addContent(new Element("label").setText(label));
                                     list.addContent(new Element("li").setText(content));
                                     //list.addContent(item);
                                 }
@@ -132,10 +135,10 @@ public class FoToXML1 {
                             String label = part +"_"+ countNotion;
                             String content = child.getText();
                             Element text = new Element("texte");
-                            //notion.addContent(new Element("label").setText(label));
-                            //notion.addContent(new Element("contenu").setText(content));
-                            text.setText(content);
-                            insert(text);
+                            if (!isBlank(content)) {
+                                text.setText(content);
+                                insert(text);
+                            }
                             //racine.addContent(notion);
                             countNotion++;
 
@@ -143,9 +146,11 @@ public class FoToXML1 {
                         else if ( child.getChild("inline",fo).getChild("external-graphic",fo)!=null){
                             ///
                             String url = child.getChild("inline",fo).getChild("external-graphic",fo).getAttributeValue("src");
+                            String with = child.getChild("inline",fo).getChild("external-graphic",fo).getAttributeValue("width");
+                            String height = child.getChild("inline",fo).getChild("external-graphic",fo).getAttributeValue("height");
                             Element img = new Element("image");
-                            //img.setAttribute("label",part);
-                            //img.addContent(new Element("chemin").setText(url));
+                            img.setAttribute("height",height);
+                            img.setAttribute("width",with);
                             img.setText(url);
                             insert(img);
                             //racine.addContent(img);
@@ -156,10 +161,10 @@ public class FoToXML1 {
 
                             String label = part +"_"+ countNotion;
                             String content = child.getChild("inline",fo).getText();
-                            Element text = new Element("texte").setText(content);
-                            //notion.addContent(new Element("label").setText(label));
-                            //notion.addContent(new Element("contenu").setText(content));
-                            insert(text);
+                            if (!isBlank(content)) {
+                                Element text = new Element("texte").setText(content);
+                                insert(text);
+                            }
                             //racine.addContent(notion);
                             countNotion++;
                         }
@@ -171,35 +176,7 @@ public class FoToXML1 {
                         Element table = new Element("table");
                         insert(table);
                         //racine.addContent(table);
-                        Iterator tabIterator = child.getChild("table-body",fo).getContent().iterator();
-                        while (tabIterator.hasNext()) {
-                            Object tabrow = tabIterator.next();
-                            if (tabrow instanceof Element) {
-                                Element row = (Element) tabrow;
-                                Element tr = new Element("tr");
-                                table.addContent(tr);
-
-                                Iterator cellIterator = row.getContent().iterator();
-                                while (cellIterator.hasNext()){
-                                    Object cell = cellIterator.next();
-                                    if (cell instanceof Element){
-                                        //
-                                        String content ="";
-                                        //String content = ((Element) cell).getChild("block",fo).getText();
-                                        if (((Element) cell).getChild("block",fo).getChildren().isEmpty()){
-                                            content = ((Element) cell).getChild("block",fo).getText();
-                                        }
-                                        else {
-                                            content = ((Element) cell).getChild("block",fo).getChild("inline",fo).getText();
-                                        }
-                                        //content = ((Element) cell).getChildText("block",fo);
-                                        Element td = new Element("td");
-                                        td.setText(content);
-                                        tr.addContent(td);
-                                    }
-                                }
-                            }
-                        }
+                        insertTable(table, child,fo);
                     }
 
 
@@ -272,7 +249,7 @@ public class FoToXML1 {
         }
         else if(parti==null) {
             parti = new Element("partie").setAttribute("label","1");
-            parti.addContent(new Element("titre").setText("parti par defaut"));
+            parti.addContent(new Element("titre").setText("Préliminaire sur le document"));
             racine.addContent(parti);
             chap = new Element("chapitre").setAttribute("label","chapitre par defaut");
             chap.addContent(new Element("titre").setText("titre par defaut"));
@@ -310,6 +287,63 @@ public class FoToXML1 {
             notion.addContent(new Element("contenu"));
             notion.getChild("contenu").addContent(element);
             para.addContent(notion);
+        }
+        else if(notion==null){
+            notion = new Element("notion").setAttribute("label","notion par defaut");
+            notion.addContent(new Element("titre").setText("titre par defaut"));
+            notion.addContent(new Element("contenu"));
+            notion.getChild("contenu").addContent(element);
+            para.addContent(notion);
+        }
+    }
+
+    public static void insertTable(Element table, Element child, Namespace fo){
+        Iterator tabIterator = child.getChild("table-body",fo).getContent().iterator();
+        Element tbody = new Element("tbody");
+        table.addContent(tbody);
+        while (tabIterator.hasNext()) {
+            Object tabrow = tabIterator.next();
+            if (tabrow instanceof Element) {
+                Element row = (Element) tabrow;
+
+                Element tr = new Element("tr");
+                tbody.addContent(tr);
+
+                Iterator cellIterator = row.getContent().iterator();
+                while (cellIterator.hasNext()){
+                    Object cell = cellIterator.next();
+                    if (cell instanceof Element){
+                        //
+                        String content ="";
+                        //Les attributs
+                        String bgColor = ((Element) cell).getAttributeValue("background-color");
+                        String dAlign = ((Element) cell).getAttributeValue("display-align");
+                        String pLeft = ((Element) cell).getAttributeValue("padding-left");
+                        String bWidth = ((Element) cell).getAttributeValue("border-width");
+                        String bStyle = ((Element) cell).getAttributeValue("border-style");
+                        String bColor = ((Element) cell).getAttributeValue("border-color");
+                        String pRight = ((Element) cell).getAttributeValue("padding-right");
+                        String border = bWidth + " " + bStyle + " " + bColor;
+
+                        //String content = ((Element) cell).getChild("block",fo).getText();
+                        if (((Element) cell).getChild("block",fo).getChildren().isEmpty()){
+                            content = ((Element) cell).getChild("block",fo).getText();
+                        }
+                        else {
+                            content = ((Element) cell).getChild("block",fo).getChild("inline",fo).getText();
+                        }
+                        //content = ((Element) cell).getChildText("block",fo);
+                        Element td = new Element("td");
+                        if (bgColor!=null) td.setAttribute("background-color", bgColor);
+                        if (border!=null) td.setAttribute("border", border);
+                        if (dAlign!=null) td.setAttribute("display-align",dAlign);
+                        if (pLeft!=null) td.setAttribute("padding-left",pLeft);
+                        if (pRight!=null) td.setAttribute("padding-right",pRight);
+                        td.setText(content);
+                        tr.addContent(td);
+                    }
+                }
+            }
         }
     }
 
